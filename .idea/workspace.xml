@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="524374a8-4163-4927-b18e-edd43430edae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/10816 숫자 카드 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/10816 숫자 카드 2_bs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/11725 트리의 부모 찾기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/12015 가장 긴 증가하는 부분 수열 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1654 랜선 자르기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1920 수 찾기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1920 수 찾기_bs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2110 공유기 설치.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2805 나무 자르기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/bad/1300 K번째 수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/etc/BS min max pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/카카오 셔틀버스.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/accepted/2206 벽 부수고 이동하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/accepted/2206 벽 부수고 이동하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/11053 가장 긴 증가하는 부분수열.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1149 RGB거리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1904 01타일.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/9461 파도반 수열.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,12 +15,42 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/programmers/카카오 셔틀버스.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sensitive/2020 카카오 인턴십/5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            <state relative-caret-position="-406">
+              <caret line="29" column="25" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1904 01타일.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="31" selection-end-line="12" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baekjoon/accepted/9461 파도반 수열.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="13" lean-forward="true" selection-end-line="22" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1149 RGB거리.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -85,13 +106,25 @@
         <option value="$PROJECT_DIR$/baekjoon/accepted/12015 가장 긴 증가하는 부분 수열 2.py" />
         <option value="$PROJECT_DIR$/baekjoon/accepted/11725 트리의 부모 찾기.py" />
         <option value="$PROJECT_DIR$/programmers/셔틀버스.py" />
+        <option value="$PROJECT_DIR$/baekjoon/accepted/11053 가장 긴 증가하는 부분수열.py" />
+        <option value="$PROJECT_DIR$/baekjoon/accepted/q.py" />
+        <option value="$PROJECT_DIR$/baekjoon/accepted/1.py" />
+        <option value="$PROJECT_DIR$/baekjoon/accepted/4.py" />
+        <option value="$PROJECT_DIR$/baekjoon/accepted/3.py" />
+        <option value="$PROJECT_DIR$/baekjoon/accepted/5.py" />
+        <option value="$PROJECT_DIR$/sensitive/2020 카카오 인턴십/5.py" />
+        <option value="$PROJECT_DIR$/sensitive/2020 카카오 인턴십/3.py" />
+        <option value="$PROJECT_DIR$/baekjoon/accepted/1904 01타일.py" />
+        <option value="$PROJECT_DIR$/baekjoon/accepted/9461 파도반 수열.py" />
+        <option value="$PROJECT_DIR$/baekjoon/accepted/1149 RGB거리.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1130" />
-    <option name="width" value="340" />
-    <option name="height" value="70" />
+    <option name="x" value="92" />
+    <option name="y" value="98" />
+    <option name="width" value="1960" />
+    <option name="height" value="1368" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -139,6 +172,12 @@
               <item name="coding_practice" type="462c0819:PsiDirectoryNode" />
               <item name="sensitive" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="coding_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coding_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="sensitive" type="462c0819:PsiDirectoryNode" />
+              <item name="2020 카카오 인턴십" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -153,6 +192,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\sensitive\2020 카카오 인턴십" />
       <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\bad" />
       <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted" />
     </key>
@@ -169,8 +209,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.11725 트리의 부모 찾기">
-    <configuration name="11725 트리의 부모 찾기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.9461 파도반 수열">
+    <configuration name="1904 01타일" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,7 +222,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/11725 트리의 부모 찾기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1904 01타일.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,7 +231,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12015 가장 긴 증가하는 부분 수열 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -199,11 +239,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/accepted" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sensitive/2020 카카오 인턴십" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/12015 가장 긴 증가하는 부분 수열 2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sensitive/2020 카카오 인턴십/3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +252,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1300 K번째 수" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,7 +264,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\bad\1300 K번째 수.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\sensitive\2020 카카오 인턴십\3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,7 +273,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2110 공유기 설치" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,7 +285,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/2110 공유기 설치.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\sensitive\2020 카카오 인턴십\5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,7 +294,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2805 나무 자르기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="9461 파도반 수열" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,7 +306,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/2805 나무 자르기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/9461 파도반 수열.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,11 +317,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.11725 트리의 부모 찾기" />
-        <item itemvalue="Python.12015 가장 긴 증가하는 부분 수열 2" />
-        <item itemvalue="Python.1300 K번째 수" />
-        <item itemvalue="Python.2110 공유기 설치" />
-        <item itemvalue="Python.2805 나무 자르기" />
+        <item itemvalue="Python.9461 파도반 수열" />
+        <item itemvalue="Python.1904 01타일" />
+        <item itemvalue="Python.3 (1)" />
+        <item itemvalue="Python.5" />
+        <item itemvalue="Python.3" />
       </list>
     </recent_temporary>
   </component>
@@ -309,15 +349,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="-7" width="1319" height="925" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.30769232" visible="true" weight="0.2751364" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.30769232" visible="true" weight="0.26422447" />
       <window_info id="Structure" order="1" sideWeight="0.6851852" side_tool="true" weight="0.2494432" />
       <window_info id="Favorites" order="2" sideWeight="0.6923077" side_tool="true" weight="0.2945014" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32356688" />
-      <window_info anchor="bottom" x="1470" y="-402" width="542" height="311" id="Run" order="2" sideWeight="0.4988864" visible="true" weight="0.33417404" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892474" />
+      <window_info anchor="bottom" x="1470" y="-402" width="542" height="311" id="Run" order="2" sideWeight="0.4988864" visible="true" weight="0.44892812" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39855072" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.052173913" />
@@ -362,13 +401,6 @@
     <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1463 1로 만들기.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/9095 1, 2, 3 더하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-73">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1003 피보나치 함수.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -390,20 +422,6 @@
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/7579 앱.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" lean-forward="true" selection-end-line="32" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/11049 행렬 곱셈 순서.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="20" column="6" lean-forward="true" selection-end-line="32" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -432,16 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
           <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/2667 단지번호붙이기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -475,27 +483,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/temp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/temp.py" />
     <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1520 내리막 길.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="24" selection-end-line="32" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/10816 숫자 카드 2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="14" selection-end-line="24" selection-end-column="62" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -527,13 +519,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/2805 나무 자르기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="5" column="12" selection-end-line="29" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/baekjoon/accepted/2110 공유기 설치.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -548,20 +533,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/12015 가장 긴 증가하는 부분 수열 2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/11725 트리의 부모 찾기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="41" column="12" lean-forward="true" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/etc/BS min max pattern.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
@@ -571,8 +542,142 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/programmers/카카오 셔틀버스.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        <state relative-caret-position="323">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/2667 단지번호붙이기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/2805 나무 자르기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/7579 앱.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/11049 행렬 곱셈 순서.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/12015 가장 긴 증가하는 부분 수열 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="13" column="12" lean-forward="true" selection-end-line="35" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/q.py" />
+    <entry file="file://$PROJECT_DIR$/sensitive/2020 카카오 인턴십/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="33" column="39" lean-forward="true" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sensitive/2020 카카오 인턴십/4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/11053 가장 긴 증가하는 부분수열.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sensitive/2020 카카오 인턴십/2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sensitive/2020 카카오 인턴십/5 description3.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sensitive/2020 카카오 인턴십/5 description2.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/11725 트리의 부모 찾기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sensitive/2020 카카오 인턴십/5 description.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/9095 1, 2, 3 더하기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/10816 숫자 카드 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sensitive/2020 카카오 인턴십/3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sensitive/2020 카카오 인턴십/5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-406">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1904 01타일.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="31" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/9461 파도반 수열.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="13" lean-forward="true" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1149 RGB거리.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
