@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="524374a8-4163-4927-b18e-edd43430edae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/10844 쉬운 계단 수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/11054 가장 긴 바이토닉 부분수열.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/12865 평범한 배낭.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1912 연속합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1932 정수 삼각형.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2156 포도주 시식.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2579 계단 오르기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/bad/2565 전깃줄.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/bad/9251 LCS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/accepted/1149 RGB거리.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/accepted/1149 RGB거리.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1912 연속합.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -34,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/baekjoon/accepted/12865 평범한 배낭.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            <state relative-caret-position="285">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -337,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589199035223</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="study dp">
+      <created>1589295415536</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589295415536</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -351,14 +348,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="-7" width="1319" height="925" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.30769232" weight="0.3282374" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.30769232" visible="true" weight="0.3281372" />
       <window_info id="Structure" order="1" sideWeight="0.6851852" side_tool="true" weight="0.2494432" />
       <window_info id="Favorites" order="2" sideWeight="0.6923077" side_tool="true" weight="0.2945014" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32356688" />
-      <window_info active="true" anchor="bottom" x="1470" y="-402" width="542" height="311" id="Run" order="2" sideWeight="0.4988864" visible="true" weight="0.44892812" />
+      <window_info anchor="bottom" x="1470" y="-402" width="542" height="311" id="Run" order="2" sideWeight="0.4988864" weight="0.44892812" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39855072" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -393,7 +389,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="revise DP basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="revise DP basics" />
+    <MESSAGE value="study dp" />
+    <option name="LAST_COMMIT_MESSAGE" value="study dp" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1463 1로 만들기.py">
@@ -731,14 +728,14 @@
     <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1912 연속합.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/baekjoon/accepted/12865 평범한 배낭.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        <state relative-caret-position="285">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
         </state>
       </provider>
     </entry>
