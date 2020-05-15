@@ -1,4 +1,4 @@
-# memory over
+# exceeding memory limit
 from sys import stdin
 
 
