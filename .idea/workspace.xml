@@ -2,24 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="524374a8-4163-4927-b18e-edd43430edae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1504 특정한 최단 경로.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1697 숨바꼭질.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1753 최단경로.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2178 미로 탐색.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/7569 토마토.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/7576 토마토.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/9370 미확인 도착지.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/not_accepted/7576 토마토_recursive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/11279 최대 힙_heapq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/11279 최대 힙_my heap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/11404 플로이드.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/11404 플로이드2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1927 최소 힙_heapq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1927 최소 힙_my heap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1956 운동.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/not_accepted/11657 타임머신.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/not_solved/10217 KCM Travel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/heap.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/bad/10942 팰린드롬.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/not_solved/10942 팰린드롬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/bad/11066 파일 합치기.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/not_solved/11066 파일 합치기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/bad/1167 트리의 지름_floyd-warshall.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/not_accepted/1167 트리의 지름_floyd-warshall.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/bad/1167 트리의 지름_floyd-warshall_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/not_accepted/1167 트리의 지름_floyd-warshall_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/bad/1300 K번째 수.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/not_solved/1300 K번째 수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/bad/15684 사다리 조작.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/not_solved/15684 사다리 조작.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/bad/2565 전깃줄.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/not_solved/2565 전깃줄.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/bad/2580 스도쿠.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/not_solved/2580 스도쿠.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/bad/9251 LCS.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,12 +21,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1753 최단경로.py">
+        <entry file="file://$PROJECT_DIR$/baekjoon/not_accepted/11657 타임머신.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+            <state relative-caret-position="266">
+              <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -42,22 +35,61 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1504 특정한 최단 경로.py">
+        <entry file="file://$PROJECT_DIR$/baekjoon/accepted/11404 플로이드2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-41">
-              <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+            <state relative-caret-position="551">
+              <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baekjoon/accepted/11404 플로이드.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baekjoon/not_solved/10217 KCM Travel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-49">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/baekjoon/accepted/9370 미확인 도착지.py">
+        <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1927 최소 힙_my heap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="33" column="64" selection-end-line="73" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="228">
+              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baekjoon/accepted/11279 최대 힙_my heap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/etc/heap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-76">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -85,16 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/baekjoon/accepted/2206 벽 부수고 이동하기.py" />
-        <option value="$PROJECT_DIR$/baekjoon/accepted/1920 수 찾기.py" />
-        <option value="$PROJECT_DIR$/baekjoon/accepted/1920 수 찾기_bs.py" />
-        <option value="$PROJECT_DIR$/baekjoon/accepted/10816 숫자 카드 2.py" />
-        <option value="$PROJECT_DIR$/baekjoon/accepted/10816 숫자 카드 2_bs.py" />
-        <option value="$PROJECT_DIR$/baekjoon/accepted/1654 랜선 자르기.py" />
-        <option value="$PROJECT_DIR$/baekjoon/accepted/2805 나무 자르기.py" />
-        <option value="$PROJECT_DIR$/baekjoon/accepted/2110 공유기 설치.py" />
-        <option value="$PROJECT_DIR$/baekjoon/accepted/1300 K번째 수.py" />
-        <option value="$PROJECT_DIR$/etc/BS min max pattern.py" />
         <option value="$PROJECT_DIR$/baekjoon/accepted/12015 가장 긴 증가하는 부분 수열 2.py" />
         <option value="$PROJECT_DIR$/baekjoon/accepted/11725 트리의 부모 찾기.py" />
         <option value="$PROJECT_DIR$/programmers/셔틀버스.py" />
@@ -118,7 +140,6 @@
         <option value="$PROJECT_DIR$/baekjoon/accepted/9251 LCS.py" />
         <option value="$PROJECT_DIR$/baekjoon/accepted/1912 연속합.py" />
         <option value="$PROJECT_DIR$/baekjoon/accepted/12865 평범한 배낭.py" />
-        <option value="$PROJECT_DIR$/baekjoon/accepted/temp.py" />
         <option value="$PROJECT_DIR$/etc/compare poping of deque and list.py" />
         <option value="$PROJECT_DIR$/baekjoon/accepted/2580 스도쿠.py" />
         <option value="$PROJECT_DIR$/baekjoon/bad/2580 스도쿠.py" />
@@ -136,12 +157,23 @@
         <option value="$PROJECT_DIR$/baekjoon/accepted/1753 최단경로.py" />
         <option value="$PROJECT_DIR$/baekjoon/accepted/1504 특정한 최단 경로.py" />
         <option value="$PROJECT_DIR$/baekjoon/accepted/9370 미확인 도착지.py" />
+        <option value="$PROJECT_DIR$/baekjoon/accepted/11657 타임머신.py" />
+        <option value="$PROJECT_DIR$/baekjoon/accepted/11404 플로이드2.py" />
+        <option value="$PROJECT_DIR$/baekjoon/accepted/11404 플로이드.py" />
+        <option value="$PROJECT_DIR$/baekjoon/accepted/10217 KCM Travel.py" />
+        <option value="$PROJECT_DIR$/baekjoon/accepted/1956 운동.py" />
+        <option value="$PROJECT_DIR$/baekjoon/accepted/11279 최대 힙.py" />
+        <option value="$PROJECT_DIR$/baekjoon/accepted/temp.py" />
+        <option value="$PROJECT_DIR$/baekjoon/accepted/1927 최소 힙.py" />
+        <option value="$PROJECT_DIR$/baekjoon/accepted/11279 최대 힙_my heap.py" />
+        <option value="$PROJECT_DIR$/etc/heap.py" />
+        <option value="$PROJECT_DIR$/baekjoon/accepted/1927 최소 힙_my heap.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="112" />
-    <option name="width" value="1328" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="502" />
+    <option name="width" value="2244" />
     <option name="height" value="1834" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -189,6 +221,11 @@
             <path>
               <item name="coding_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="coding_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="etc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coding_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coding_practice" type="462c0819:PsiDirectoryNode" />
               <item name="sensitive" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -211,15 +248,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\not_accepted" />
-      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\bad" />
-      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\etc" />
-      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\sensitive\2020 카카오 인턴십" />
-      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\etc" />
+      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\not_solved" />
+      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\not_accepted" />
+      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\bad" />
+      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\sensitive\2020 카카오 인턴십" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -234,8 +271,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.9370 미확인 도착지">
-    <configuration name="1504 특정한 최단 경로" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1927 최소 힙_my heap">
+    <configuration name="11279 최대 힙_heapq" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -247,7 +284,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1504 특정한 최단 경로.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/11279 최대 힙_heapq.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,7 +293,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1697 숨바꼭질_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11279 최대 힙_my heap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -268,7 +305,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1697 숨바꼭질_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/11279 최대 힙_my heap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,7 +314,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1697 숨바꼭질" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1927 최소 힙_my heap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -289,7 +326,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1697 숨바꼭질.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1927 최소 힙_my heap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,7 +335,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1753 최단경로" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1927 최소 힙" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -310,7 +347,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1753 최단경로.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted\1927 최소 힙_heapq.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,7 +356,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9370 미확인 도착지" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -331,7 +368,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/9370 미확인 도착지.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\etc\heap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -342,11 +379,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.9370 미확인 도착지" />
-        <item itemvalue="Python.1504 특정한 최단 경로" />
-        <item itemvalue="Python.1753 최단경로" />
-        <item itemvalue="Python.1697 숨바꼭질" />
-        <item itemvalue="Python.1697 숨바꼭질_2" />
+        <item itemvalue="Python.1927 최소 힙_my heap" />
+        <item itemvalue="Python.11279 최대 힙_my heap" />
+        <item itemvalue="Python.11279 최대 힙_heapq" />
+        <item itemvalue="Python.1927 최소 힙" />
+        <item itemvalue="Python.temp" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589466524669</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="study BFS and Dijkstra&#10;&#10;studied some applied problems">
+      <created>1589557416531</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589557416531</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -409,21 +453,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="-7" width="1319" height="925" extended-state="6" />
+    <frame x="251" y="0" width="1122" height="917" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.30769232" visible="true" weight="0.24473889" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.30769232" weight="0.5" />
       <window_info id="Structure" order="1" sideWeight="0.6851852" side_tool="true" weight="0.2494432" />
       <window_info id="Favorites" order="2" sideWeight="0.6923077" side_tool="true" weight="0.2945014" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32282472" />
-      <window_info active="true" anchor="bottom" x="1470" y="-402" width="542" height="311" id="Run" order="2" sideWeight="0.4988864" visible="true" weight="0.3656999" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3210191" />
+      <window_info active="true" anchor="bottom" x="1470" y="-402" width="542" height="311" id="Run" order="2" sideWeight="0.4988864" visible="true" weight="0.36942676" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39848676" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.052173913" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4988864" weight="0.37311828" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.20244329" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.20127389" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5011136" side_tool="true" weight="0.42781457" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32867134" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -436,57 +480,10 @@
     <MESSAGE value="study dp" />
     <MESSAGE value="revise back tracking" />
     <MESSAGE value="study sudocu, tree diameter" />
-    <option name="LAST_COMMIT_MESSAGE" value="study sudocu, tree diameter" />
+    <MESSAGE value="study BFS and Dijkstra&#10;&#10;studied some applied problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="study BFS and Dijkstra&#10;&#10;studied some applied problems" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/11049 행렬 곱셈 순서.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/12015 가장 긴 증가하는 부분 수열 2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="13" column="12" lean-forward="true" selection-end-line="35" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/q.py" />
-    <entry file="file://$PROJECT_DIR$/sensitive/2020 카카오 인턴십/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="33" column="39" lean-forward="true" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sensitive/2020 카카오 인턴십/4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sensitive/2020 카카오 인턴십/2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sensitive/2020 카카오 인턴십/5 description3.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sensitive/2020 카카오 인턴십/5 description2.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/11725 트리의 부모 찾기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sensitive/2020 카카오 인턴십/5 description.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/baekjoon/accepted/9095 1, 2, 3 더하기.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="107">
@@ -689,9 +686,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/baekjoon/bad_solution/9251 LCS.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/bad_solution/9251 LCS.py" />
     <entry file="file://$PROJECT_DIR$/baekjoon/not_solved/10942 팰린드롬.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -701,16 +696,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1697 숨바꼭질_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1697 숨바꼭질_2.py" />
     <entry file="file://$PROJECT_DIR$/baekjoon/not_accepted/1167 트리의 지름_floyd-warshall.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -738,12 +724,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/7576 토마토.py">
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1697 숨바꼭질.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        <state relative-caret-position="266">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1753 최단경로.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
           <folding>
-            <element signature="e#0#40#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -758,37 +751,118 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1697 숨바꼭질.py">
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/7576 토마토.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1753 최단경로.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="342">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1504 특정한 최단 경로.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-41">
-          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+        <state>
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/not_accepted/11657 타임머신.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/11404 플로이드2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/11404 플로이드.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/baekjoon/accepted/9370 미확인 도착지.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="64" selection-end-line="73" />
+        <state relative-caret-position="1102">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/11279 최대 힙_heapq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1927 최소 힙_heapq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1956 운동.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/not_solved/10217 KCM Travel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etc/heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/11279 최대 힙_my heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/accepted/1927 최소 힙_my heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
         </state>
       </provider>
     </entry>
