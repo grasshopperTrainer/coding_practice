@@ -16,8 +16,9 @@ def solution(N, edges):
     heap = [(0, 1)]
 
     while heap:
-        _, node = heapq.heappop(heap)
-
+        cost, node = heapq.heappop(heap)
+        if costs[node][0] < cost:
+            continue
         for next_node, time in tree.get(node, {}).items():
             if costs[next_node][0] > costs[node][0] + time:
                 # max renewal count in N-1
