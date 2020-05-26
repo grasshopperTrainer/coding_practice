@@ -20,27 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="524374a8-4163-4927-b18e-edd43430edae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1000 A+B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/10171.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/10718 We love kriii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1655 가운데를 말해요.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/17175 피보나치는 지겨웡~.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2557 Hello World.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2624 동전 바꿔주기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2848 알고스팟어.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/3176 도로 네트워크.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/4592 중복을 없애자.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/not_accepted/12107 약수 지우기 게임 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/not_accepted/14220 양아치 집배원.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/not_accepted/15352 욱제와 그의 팬들.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/not_accepted/16201 발코니 공사.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/not_accepted/1784 팰린드 인코딩.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/not_accepted/3176 도로 네트워크_without LCA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/etc/median binary search tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/etc/which is faster_binary shifting or division by 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/etc/which is faster_sorting or reversed sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/coding_practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/coding_practice.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/accepted/3176 도로 네트워크.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/accepted/3176 도로 네트워크.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589810982638</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="solve random problems&#10;&#10;learning LCA">
+      <created>1590418495492</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1590418495492</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -321,25 +312,34 @@
     <MESSAGE value="study Floyd-Warshall, shortest path, heap&#10;&#10;Some shortest path problems are still not clear.&#10;Need more study and revision.&#10;Tried writing heap out of list. Works well." />
     <MESSAGE value="study Tree" />
     <MESSAGE value="try '10217 KCM Travel'&#10;But not accepted. Seems like special case of using Python3." />
-    <option name="LAST_COMMIT_MESSAGE" value="try '10217 KCM Travel'&#10;But not accepted. Seems like special case of using Python3." />
+    <MESSAGE value="solve random problems&#10;&#10;learning LCA" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve random problems&#10;&#10;learning LCA" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1284" height="313" key="GridCell.Tab.0.bottom" timestamp="1590418379910">
+    <state x="272" y="9" key="CommitChangelistDialog2" timestamp="1590418494125">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state width="1284" height="313" key="GridCell.Tab.0.bottom/62.0.1306.912@62.0.1306.912" timestamp="1590418379910" />
-    <state width="1284" height="313" key="GridCell.Tab.0.center" timestamp="1590418379910">
+    <state x="272" y="9" key="CommitChangelistDialog2/62.0.1306.912@62.0.1306.912" timestamp="1590418494125" />
+    <state x="62" y="74" width="1306" height="766" key="DiffContextDialog" timestamp="1590418733534">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state width="1284" height="313" key="GridCell.Tab.0.center/62.0.1306.912@62.0.1306.912" timestamp="1590418379910" />
-    <state width="1284" height="313" key="GridCell.Tab.0.left" timestamp="1590418379910">
+    <state x="62" y="74" width="1306" height="766" key="DiffContextDialog/62.0.1306.912@62.0.1306.912" timestamp="1590418733534" />
+    <state width="1284" height="135" key="GridCell.Tab.0.bottom" timestamp="1590499657367">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state width="1284" height="313" key="GridCell.Tab.0.left/62.0.1306.912@62.0.1306.912" timestamp="1590418379910" />
-    <state width="1284" height="313" key="GridCell.Tab.0.right" timestamp="1590418379910">
+    <state width="1284" height="135" key="GridCell.Tab.0.bottom/62.0.1306.912@62.0.1306.912" timestamp="1590499657367" />
+    <state width="1284" height="135" key="GridCell.Tab.0.center" timestamp="1590499657366">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state width="1284" height="313" key="GridCell.Tab.0.right/62.0.1306.912@62.0.1306.912" timestamp="1590418379910" />
+    <state width="1284" height="135" key="GridCell.Tab.0.center/62.0.1306.912@62.0.1306.912" timestamp="1590499657366" />
+    <state width="1284" height="135" key="GridCell.Tab.0.left" timestamp="1590499657366">
+      <screen x="62" y="0" width="1306" height="912" />
+    </state>
+    <state width="1284" height="135" key="GridCell.Tab.0.left/62.0.1306.912@62.0.1306.912" timestamp="1590499657366" />
+    <state width="1284" height="135" key="GridCell.Tab.0.right" timestamp="1590499657366">
+      <screen x="62" y="0" width="1306" height="912" />
+    </state>
+    <state width="1284" height="135" key="GridCell.Tab.0.right/62.0.1306.912@62.0.1306.912" timestamp="1590499657366" />
     <state x="55" y="0" width="1312" height="912" key="MergeDialog" timestamp="1589896574667">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
@@ -352,10 +352,10 @@
       <screen x="62" y="0" width="1306" height="912" />
     </state>
     <state x="441" y="201" width="570" height="524" key="StructurePopup/62.0.1306.912@62.0.1306.912" timestamp="1590142042149" />
-    <state x="307" y="188" key="Vcs.Push.Dialog.v2" timestamp="1589896771924">
+    <state x="307" y="188" key="Vcs.Push.Dialog.v2" timestamp="1590418737978">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state x="307" y="188" key="Vcs.Push.Dialog.v2/62.0.1306.912@62.0.1306.912" timestamp="1589896771924" />
+    <state x="307" y="188" key="Vcs.Push.Dialog.v2/62.0.1306.912@62.0.1306.912" timestamp="1590418737978" />
     <state x="520" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590418455611">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
