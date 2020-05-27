@@ -1,30 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="524374a8-4163-4927-b18e-edd43430edae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+    <list default="true" id="d4779bfb-d93c-4919-9e24-08852ecfec63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/10870 피보나치 수 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/10872 팩토리얼.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/11729  하노 탑 이동 순서.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/5773 웰컴.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/not_solved/9273 정제헌을 팔자!.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/coding_practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/coding_practice.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/accepted/3176 도로 네트워크.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/accepted/3176 도로 네트워크.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,37 +24,27 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="ProjectId" id="1c7jyzk6tNWbYXYfIByIFTQcO5u" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1cRn7l2IG64fs13zGbyZ5fmdtaY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/baekjoon/accepted" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../2020" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\not_accepted" />
-      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\sensitive\programmers_2020 Summer Coding" />
-      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\not_solved" />
-      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\etc" />
-      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\bad" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted" />
-      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\etc" />
       <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\not_solved" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3176 도로 네트워크">
-    <configuration name="12107 약수 지우기 게임 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.11729  하노 탑 이동 순서">
+    <configuration name="10870 피보나치 수 5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,7 +56,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\not_accepted\12107 약수 지우기 게임 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/10870 피보나치 수 5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +65,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17175 피보나치는 지겨웡~" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10872 팩토리얼" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +77,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/17175 피보나치는 지겨웡~.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/10872 팩토리얼.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1784 팰린드 인코딩" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11729  하노 탑 이동 순서" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,7 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\not_accepted\1784 팰린드 인코딩.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/11729  하노 탑 이동 순서.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3176 도로 네트워크" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5773 웰컴" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,7 +119,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/3176 도로 네트워크.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/5773 웰컴.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4592 중복을 없애자" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9273 정제헌을 팔자!" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,7 +140,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/4592 중복을 없애자.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\not_solved\9273 정제헌을 팔자!.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3176 도로 네트워크" />
-        <item itemvalue="Python.1784 팰린드 인코딩" />
-        <item itemvalue="Python.4592 중복을 없애자" />
-        <item itemvalue="Python.17175 피보나치는 지겨웡~" />
-        <item itemvalue="Python.12107 약수 지우기 게임 1" />
+        <item itemvalue="Python.11729  하노 탑 이동 순서" />
+        <item itemvalue="Python.10870 피보나치 수 5" />
+        <item itemvalue="Python.10872 팩토리얼" />
+        <item itemvalue="Python.9273 정제헌을 팔자!" />
+        <item itemvalue="Python.5773 웰컴" />
       </list>
     </recent_temporary>
   </component>
@@ -189,188 +164,42 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="524374a8-4163-4927-b18e-edd43430edae" name="Default Changelist" comment="" />
-      <created>1588755274977</created>
+      <changelist id="d4779bfb-d93c-4919-9e24-08852ecfec63" name="Default Changelist" comment="" />
+      <created>1590500108414</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1588755274977</updated>
+      <updated>1590500108414</updated>
     </task>
-    <task id="LOCAL-00001" summary="revise DP basics">
-      <created>1589199035223</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1589199035223</updated>
-    </task>
-    <task id="LOCAL-00002" summary="study dp">
-      <created>1589295415536</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1589295415536</updated>
-    </task>
-    <task id="LOCAL-00003" summary="revise back tracking">
-      <created>1589380799186</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1589380799186</updated>
-    </task>
-    <task id="LOCAL-00004" summary="revise back tracking">
-      <created>1589380850040</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1589380850040</updated>
-    </task>
-    <task id="LOCAL-00005" summary="study sudocu, tree diameter">
-      <created>1589466524669</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1589466524669</updated>
-    </task>
-    <task id="LOCAL-00006" summary="study BFS and Dijkstra&#10;&#10;studied some applied problems">
-      <created>1589557416531</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1589557416531</updated>
-    </task>
-    <task id="LOCAL-00007" summary="study Floyd-Warshall, shortest path, heap&#10;&#10;Some shortest path problems are still not clear.&#10;Need more study and revision.&#10;Tried writing heap out of list. Works well.">
-      <created>1589639350464</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1589639350464</updated>
-    </task>
-    <task id="LOCAL-00008" summary="study Tree">
-      <created>1589728666723</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1589728666723</updated>
-    </task>
-    <task id="LOCAL-00009" summary="try '10217 KCM Travel'&#10;But not accepted. Seems like special case of using Python3.">
-      <created>1589810982638</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1589810982638</updated>
-    </task>
-    <task id="LOCAL-00010" summary="solve random problems&#10;&#10;learning LCA">
-      <created>1590418495492</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1590418495492</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="revise DP basics" />
-    <MESSAGE value="study dp" />
-    <MESSAGE value="revise back tracking" />
-    <MESSAGE value="study sudocu, tree diameter" />
-    <MESSAGE value="study BFS and Dijkstra&#10;&#10;studied some applied problems" />
-    <MESSAGE value="study Floyd-Warshall, shortest path, heap&#10;&#10;Some shortest path problems are still not clear.&#10;Need more study and revision.&#10;Tried writing heap out of list. Works well." />
-    <MESSAGE value="study Tree" />
-    <MESSAGE value="try '10217 KCM Travel'&#10;But not accepted. Seems like special case of using Python3." />
-    <MESSAGE value="solve random problems&#10;&#10;learning LCA" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve random problems&#10;&#10;learning LCA" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="272" y="9" key="CommitChangelistDialog2" timestamp="1590418494125">
+    <state x="420" y="46" key="#5773_웰컴" timestamp="1590579274078">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state x="272" y="9" key="CommitChangelistDialog2/62.0.1306.912@62.0.1306.912" timestamp="1590418494125" />
-    <state x="62" y="74" width="1306" height="766" key="DiffContextDialog" timestamp="1590418733534">
+    <state x="420" y="46" key="#5773_웰컴/62.0.1306.912@62.0.1306.912" timestamp="1590579274078" />
+    <state width="1284" height="222" key="GridCell.Tab.0.bottom" timestamp="1590593553740">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state x="62" y="74" width="1306" height="766" key="DiffContextDialog/62.0.1306.912@62.0.1306.912" timestamp="1590418733534" />
-    <state width="1284" height="135" key="GridCell.Tab.0.bottom" timestamp="1590499657367">
+    <state width="1284" height="222" key="GridCell.Tab.0.bottom/62.0.1306.912@62.0.1306.912" timestamp="1590593553740" />
+    <state width="1284" height="222" key="GridCell.Tab.0.center" timestamp="1590593553739">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state width="1284" height="135" key="GridCell.Tab.0.bottom/62.0.1306.912@62.0.1306.912" timestamp="1590499657367" />
-    <state width="1284" height="135" key="GridCell.Tab.0.center" timestamp="1590499657366">
+    <state width="1284" height="222" key="GridCell.Tab.0.center/62.0.1306.912@62.0.1306.912" timestamp="1590593553739" />
+    <state width="1284" height="222" key="GridCell.Tab.0.left" timestamp="1590593553739">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state width="1284" height="135" key="GridCell.Tab.0.center/62.0.1306.912@62.0.1306.912" timestamp="1590499657366" />
-    <state width="1284" height="135" key="GridCell.Tab.0.left" timestamp="1590499657366">
+    <state width="1284" height="222" key="GridCell.Tab.0.left/62.0.1306.912@62.0.1306.912" timestamp="1590593553739" />
+    <state width="1284" height="222" key="GridCell.Tab.0.right" timestamp="1590593553740">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state width="1284" height="135" key="GridCell.Tab.0.left/62.0.1306.912@62.0.1306.912" timestamp="1590499657366" />
-    <state width="1284" height="135" key="GridCell.Tab.0.right" timestamp="1590499657366">
+    <state width="1284" height="222" key="GridCell.Tab.0.right/62.0.1306.912@62.0.1306.912" timestamp="1590593553740" />
+    <state x="216" y="99" key="SettingsEditor" timestamp="1590579289505">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state width="1284" height="135" key="GridCell.Tab.0.right/62.0.1306.912@62.0.1306.912" timestamp="1590499657366" />
-    <state x="55" y="0" width="1312" height="912" key="MergeDialog" timestamp="1589896574667">
+    <state x="216" y="99" key="SettingsEditor/62.0.1306.912@62.0.1306.912" timestamp="1590579289505" />
+    <state x="307" y="188" key="Vcs.Push.Dialog.v2" timestamp="1590500344883">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state x="55" y="0" width="1312" height="912" key="MergeDialog/62.0.1306.912@62.0.1306.912" timestamp="1589896574667" />
-    <state x="583" y="336" width="672" height="239" key="MultipleFileMergeDialog" timestamp="1589896574675">
-      <screen x="62" y="0" width="1306" height="912" />
-    </state>
-    <state x="583" y="336" width="672" height="239" key="MultipleFileMergeDialog/62.0.1306.912@62.0.1306.912" timestamp="1589896574675" />
-    <state x="441" y="201" width="570" height="524" key="StructurePopup" timestamp="1590142042149">
-      <screen x="62" y="0" width="1306" height="912" />
-    </state>
-    <state x="441" y="201" width="570" height="524" key="StructurePopup/62.0.1306.912@62.0.1306.912" timestamp="1590142042149" />
-    <state x="307" y="188" key="Vcs.Push.Dialog.v2" timestamp="1590418737978">
-      <screen x="62" y="0" width="1306" height="912" />
-    </state>
-    <state x="307" y="188" key="Vcs.Push.Dialog.v2/62.0.1306.912@62.0.1306.912" timestamp="1590418737978" />
-    <state x="520" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590418455611">
-      <screen x="62" y="0" width="1306" height="912" />
-    </state>
-    <state x="520" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1306.912@62.0.1306.912" timestamp="1590418455611" />
-    <state x="423" y="187" width="582" height="536" key="find.popup" timestamp="1590200395418">
-      <screen x="62" y="0" width="1306" height="912" />
-    </state>
-    <state x="423" y="187" width="582" height="536" key="find.popup/62.0.1306.912@62.0.1306.912" timestamp="1590200395418" />
-    <state x="558" y="226" key="refactoring.ChangeSignatureDialog" timestamp="1590145441946">
-      <screen x="62" y="0" width="1306" height="912" />
-    </state>
-    <state x="558" y="226" key="refactoring.ChangeSignatureDialog/62.0.1306.912@62.0.1306.912" timestamp="1590145441946" />
-    <state x="382" y="198" width="672" height="678" key="search.everywhere.popup" timestamp="1590392922307">
-      <screen x="62" y="0" width="1306" height="912" />
-    </state>
-    <state x="382" y="198" width="672" height="678" key="search.everywhere.popup/62.0.1306.912@62.0.1306.912" timestamp="1590392922307" />
+    <state x="307" y="188" key="Vcs.Push.Dialog.v2/62.0.1306.912@62.0.1306.912" timestamp="1590500344883" />
   </component>
 </project>
