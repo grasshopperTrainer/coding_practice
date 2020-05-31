@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4779bfb-d93c-4919-9e24-08852ecfec63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/10870 피보나치 수 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/10872 팩토리얼.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/11729  하노 탑 이동 순서.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/5773 웰컴.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/not_solved/9273 정제헌을 팔자!.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/coding_practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/coding_practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1086 박성원.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/11723 집합_using bit mask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2098 외판원 순회.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/not_accepted/11723 집합_not using bit mask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/not_accepted/2098 외판원 순회_try.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,16 +33,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../2020" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/baekjoon/accepted" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\not_accepted" />
       <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\not_solved" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.11729  하노 탑 이동 순서">
-    <configuration name="10870 피보나치 수 5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1086 박성원">
+    <configuration name="1086 박성원" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/10870 피보나치 수 5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1086 박성원.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10872 팩토리얼" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11723 집합_using bit mask" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/10872 팩토리얼.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/11723 집합_using bit mask.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11729  하노 탑 이동 순서" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2098 외판원 순회_try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/11729  하노 탑 이동 순서.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\not_accepted\2098 외판원 순회_try.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5773 웰컴" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2098 외판원 순회" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/5773 웰컴.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted\2098 외판원 순회.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9273 정제헌을 팔자!" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\not_solved\9273 정제헌을 팔자!.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/temp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.11729  하노 탑 이동 순서" />
-        <item itemvalue="Python.10870 피보나치 수 5" />
-        <item itemvalue="Python.10872 팩토리얼" />
-        <item itemvalue="Python.9273 정제헌을 팔자!" />
-        <item itemvalue="Python.5773 웰컴" />
+        <item itemvalue="Python.1086 박성원" />
+        <item itemvalue="Python.temp" />
+        <item itemvalue="Python.2098 외판원 순회_try2" />
+        <item itemvalue="Python.2098 외판원 순회_try" />
+        <item itemvalue="Python.11723 집합_using bit mask" />
       </list>
     </recent_temporary>
   </component>
@@ -170,36 +172,64 @@
       <option name="presentableId" value="Default" />
       <updated>1590500108414</updated>
     </task>
+    <task id="LOCAL-00001" summary="study hanoi&#10;&#10;got to know more intuitively">
+      <created>1590593679363</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590593679363</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="study hanoi&#10;&#10;got to know more intuitively" />
+    <option name="LAST_COMMIT_MESSAGE" value="study hanoi&#10;&#10;got to know more intuitively" />
   </component>
   <component name="WindowStateProjectService">
     <state x="420" y="46" key="#5773_웰컴" timestamp="1590579274078">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
     <state x="420" y="46" key="#5773_웰컴/62.0.1306.912@62.0.1306.912" timestamp="1590579274078" />
-    <state width="1284" height="222" key="GridCell.Tab.0.bottom" timestamp="1590593553740">
+    <state x="583" y="316" width="602" height="470" key="#Notifications" timestamp="1590594020692">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state width="1284" height="222" key="GridCell.Tab.0.bottom/62.0.1306.912@62.0.1306.912" timestamp="1590593553740" />
-    <state width="1284" height="222" key="GridCell.Tab.0.center" timestamp="1590593553739">
+    <state x="583" y="316" width="602" height="470" key="#Notifications/62.0.1306.912@62.0.1306.912" timestamp="1590594020692" />
+    <state x="334" y="21" key="CommitChangelistDialog2" timestamp="1590593677459">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state width="1284" height="222" key="GridCell.Tab.0.center/62.0.1306.912@62.0.1306.912" timestamp="1590593553739" />
-    <state width="1284" height="222" key="GridCell.Tab.0.left" timestamp="1590593553739">
+    <state x="334" y="21" key="CommitChangelistDialog2/62.0.1306.912@62.0.1306.912" timestamp="1590593677459" />
+    <state x="155" y="93" width="1119" height="725" key="DiffContextDialog" timestamp="1590593984530">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state width="1284" height="222" key="GridCell.Tab.0.left/62.0.1306.912@62.0.1306.912" timestamp="1590593553739" />
-    <state width="1284" height="222" key="GridCell.Tab.0.right" timestamp="1590593553740">
+    <state x="155" y="93" width="1119" height="725" key="DiffContextDialog/62.0.1306.912@62.0.1306.912" timestamp="1590593984530" />
+    <state x="496" y="196" key="FileChooserDialogImpl" timestamp="1590823446822">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state width="1284" height="222" key="GridCell.Tab.0.right/62.0.1306.912@62.0.1306.912" timestamp="1590593553740" />
-    <state x="216" y="99" key="SettingsEditor" timestamp="1590579289505">
+    <state x="496" y="196" key="FileChooserDialogImpl/62.0.1306.912@62.0.1306.912" timestamp="1590823446822" />
+    <state width="1284" height="380" key="GridCell.Tab.0.bottom" timestamp="1590931803630">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state x="216" y="99" key="SettingsEditor/62.0.1306.912@62.0.1306.912" timestamp="1590579289505" />
-    <state x="307" y="188" key="Vcs.Push.Dialog.v2" timestamp="1590500344883">
+    <state width="1284" height="380" key="GridCell.Tab.0.bottom/62.0.1306.912@62.0.1306.912" timestamp="1590931803630" />
+    <state width="1284" height="380" key="GridCell.Tab.0.center" timestamp="1590931803630">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state x="307" y="188" key="Vcs.Push.Dialog.v2/62.0.1306.912@62.0.1306.912" timestamp="1590500344883" />
+    <state width="1284" height="380" key="GridCell.Tab.0.center/62.0.1306.912@62.0.1306.912" timestamp="1590931803630" />
+    <state width="1284" height="380" key="GridCell.Tab.0.left" timestamp="1590931803630">
+      <screen x="62" y="0" width="1306" height="912" />
+    </state>
+    <state width="1284" height="380" key="GridCell.Tab.0.left/62.0.1306.912@62.0.1306.912" timestamp="1590931803630" />
+    <state width="1284" height="380" key="GridCell.Tab.0.right" timestamp="1590931803630">
+      <screen x="62" y="0" width="1306" height="912" />
+    </state>
+    <state width="1284" height="380" key="GridCell.Tab.0.right/62.0.1306.912@62.0.1306.912" timestamp="1590931803630" />
+    <state x="229" y="102" key="SettingsEditor" timestamp="1590897502094">
+      <screen x="62" y="0" width="1306" height="912" />
+    </state>
+    <state x="229" y="102" key="SettingsEditor/62.0.1306.912@62.0.1306.912" timestamp="1590897502094" />
+    <state x="307" y="188" key="Vcs.Push.Dialog.v2" timestamp="1590935038835">
+      <screen x="62" y="0" width="1306" height="912" />
+    </state>
+    <state x="307" y="188" key="Vcs.Push.Dialog.v2/62.0.1306.912@62.0.1306.912" timestamp="1590935038835" />
   </component>
 </project>
