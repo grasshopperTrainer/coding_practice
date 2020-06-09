@@ -2,12 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4779bfb-d93c-4919-9e24-08852ecfec63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/15685 드래곤 커브.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/15686 치킨 배달.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/17404 RGB거리 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2482 색상환.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/12852 1로 만들기 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/14002 가장 긴 증가하는 부분 수열 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/14003 가장 긴 증가하는 부분 수열 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1780 종이의 개수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1780 종이의 개수_using_6split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1780 종이의 개수_using_simpler_recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1992 쿼드트리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2618 경찰차.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2630 색종이 만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/5373 큐빙.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/9251 LCS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/9252 LCS 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/accepted/1086 박성원.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/need revision/1086 박성원.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/accepted/11053 가장 긴 증가하는 부분수열.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/accepted/11053 가장 긴 증가하는 부분 수열.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/accepted/11054 가장 긴 바이토닉 부분수열.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/accepted/11054 가장 긴 바이토닉 부분 수열.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/need revision/9251 LCS.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +51,14 @@
       <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted" />
       <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\need revision" />
       <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\not_accepted" />
       <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\not_solved" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.15686 치킨 배달">
-    <configuration name="15685 드래곤 커브" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2618 경찰차">
+    <configuration name="1780 종이의 개수_using_6split" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,7 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/15685 드래곤 커브.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1780 종이의 개수_using_6split.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15686 치킨 배달" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1780 종이의 개수_using_simpler_recursion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +91,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/15686 치킨 배달.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1780 종이의 개수_using_simpler_recursion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17404 RGB거리 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2618 경찰차" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +112,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/17404 RGB거리 2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/2618 경찰차.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2482 색상환" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9251 LCS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/accepted" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/need revision" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/2482 색상환.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted\9251 LCS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9252 LCS 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +154,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/temp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/9252 LCS 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.15686 치킨 배달" />
-        <item itemvalue="Python.temp" />
-        <item itemvalue="Python.15685 드래곤 커브" />
-        <item itemvalue="Python.2482 색상환" />
-        <item itemvalue="Python.17404 RGB거리 2" />
+        <item itemvalue="Python.2618 경찰차" />
+        <item itemvalue="Python.9252 LCS 2" />
+        <item itemvalue="Python.9251 LCS" />
+        <item itemvalue="Python.1780 종이의 개수_using_simpler_recursion" />
+        <item itemvalue="Python.1780 종이의 개수_using_6split" />
       </list>
     </recent_temporary>
   </component>
@@ -187,13 +198,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590935053944</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="study another dp&#10;&#10;And solve some simulations">
+      <created>1591106038173</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591106038173</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="study hanoi&#10;&#10;got to know more intuitively" />
     <MESSAGE value="try understand bitmask dp" />
-    <option name="LAST_COMMIT_MESSAGE" value="try understand bitmask dp" />
+    <MESSAGE value="study another dp&#10;&#10;And solve some simulations" />
+    <option name="LAST_COMMIT_MESSAGE" value="study another dp&#10;&#10;And solve some simulations" />
   </component>
   <component name="WindowStateProjectService">
     <state x="420" y="46" key="#5773_웰컴" timestamp="1590579274078">
@@ -204,10 +223,10 @@
       <screen x="62" y="0" width="1306" height="912" />
     </state>
     <state x="583" y="316" width="602" height="470" key="#Notifications/62.0.1306.912@62.0.1306.912" timestamp="1590594020692" />
-    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1590935052611">
+    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1591106036128">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state x="334" y="0" key="CommitChangelistDialog2/62.0.1306.912@62.0.1306.912" timestamp="1590935052611" />
+    <state x="334" y="0" key="CommitChangelistDialog2/62.0.1306.912@62.0.1306.912" timestamp="1591106036128" />
     <state x="155" y="93" width="1119" height="725" key="DiffContextDialog" timestamp="1590593984530">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
@@ -216,30 +235,30 @@
       <screen x="62" y="0" width="1306" height="912" />
     </state>
     <state x="496" y="196" key="FileChooserDialogImpl/62.0.1306.912@62.0.1306.912" timestamp="1590823446822" />
-    <state width="1284" height="410" key="GridCell.Tab.0.bottom" timestamp="1591105308796">
+    <state width="1284" height="345" key="GridCell.Tab.0.bottom" timestamp="1591720020493">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state width="1284" height="410" key="GridCell.Tab.0.bottom/62.0.1306.912@62.0.1306.912" timestamp="1591105308796" />
-    <state width="1284" height="410" key="GridCell.Tab.0.center" timestamp="1591105308796">
+    <state width="1284" height="345" key="GridCell.Tab.0.bottom/62.0.1306.912@62.0.1306.912" timestamp="1591720020493" />
+    <state width="1284" height="345" key="GridCell.Tab.0.center" timestamp="1591720020493">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state width="1284" height="410" key="GridCell.Tab.0.center/62.0.1306.912@62.0.1306.912" timestamp="1591105308796" />
-    <state width="1284" height="410" key="GridCell.Tab.0.left" timestamp="1591105308796">
+    <state width="1284" height="345" key="GridCell.Tab.0.center/62.0.1306.912@62.0.1306.912" timestamp="1591720020493" />
+    <state width="1284" height="345" key="GridCell.Tab.0.left" timestamp="1591720020492">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state width="1284" height="410" key="GridCell.Tab.0.left/62.0.1306.912@62.0.1306.912" timestamp="1591105308796" />
-    <state width="1284" height="410" key="GridCell.Tab.0.right" timestamp="1591105308796">
+    <state width="1284" height="345" key="GridCell.Tab.0.left/62.0.1306.912@62.0.1306.912" timestamp="1591720020492" />
+    <state width="1284" height="345" key="GridCell.Tab.0.right" timestamp="1591720020493">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state width="1284" height="410" key="GridCell.Tab.0.right/62.0.1306.912@62.0.1306.912" timestamp="1591105308796" />
+    <state width="1284" height="345" key="GridCell.Tab.0.right/62.0.1306.912@62.0.1306.912" timestamp="1591720020493" />
     <state x="229" y="102" key="SettingsEditor" timestamp="1590897502094">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
     <state x="229" y="102" key="SettingsEditor/62.0.1306.912@62.0.1306.912" timestamp="1590897502094" />
-    <state x="307" y="188" key="Vcs.Push.Dialog.v2" timestamp="1590935056689">
+    <state x="307" y="188" key="Vcs.Push.Dialog.v2" timestamp="1591106047227">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
-    <state x="307" y="188" key="Vcs.Push.Dialog.v2/62.0.1306.912@62.0.1306.912" timestamp="1590935056689" />
+    <state x="307" y="188" key="Vcs.Push.Dialog.v2/62.0.1306.912@62.0.1306.912" timestamp="1591106047227" />
     <state x="520" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591104272100">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
@@ -248,5 +267,13 @@
       <screen x="62" y="0" width="1306" height="912" />
     </state>
     <state x="423" y="187" width="582" height="536" key="find.popup/62.0.1306.912@62.0.1306.912" timestamp="1591005254744" />
+    <state x="884" y="229" key="refactoring.ChangeSignatureDialog" timestamp="1591182347483">
+      <screen x="62" y="0" width="1306" height="912" />
+    </state>
+    <state x="884" y="229" key="refactoring.ChangeSignatureDialog/62.0.1306.912@62.0.1306.912" timestamp="1591182347483" />
+    <state x="378" y="194" key="search.everywhere.popup" timestamp="1591713179740">
+      <screen x="62" y="0" width="1306" height="912" />
+    </state>
+    <state x="378" y="194" key="search.everywhere.popup/62.0.1306.912@62.0.1306.912" timestamp="1591713179740" />
   </component>
 </project>
