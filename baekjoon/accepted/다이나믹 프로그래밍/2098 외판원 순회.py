@@ -23,7 +23,8 @@ def solution(N, board):
                     dp[next_state][next_pos] = dp[state][last_pos] + cost
 
     # as dp started with [0][0]
-    # dp['1'*N][0] already indicates min value coming back to 0 - arbitrary origin
+    # dp[visited all(111..1)][0] already indicates min value coming back to 0 - arbitrary origin
+    # travel is a loop connected so starting position doesn't matter.
     return dp[-1][0]
 
 
