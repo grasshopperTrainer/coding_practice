@@ -3,9 +3,10 @@ from sys import stdin, setrecursionlimit
 
 setrecursionlimit(1100)
 def solution(N, nums, questions):
-
+    called = [0]
     record = {}
     def is_pelindrome(x, y):
+        called[0] += 1
         if (x, y) in record:
             pass
         elif x == y:
@@ -18,7 +19,7 @@ def solution(N, nums, questions):
     answers = []
     for s, e in questions:
         answers.append(is_pelindrome(s-1, e-1))
-
+    print(called)
     return answers
 
 
@@ -36,4 +37,19 @@ for a in solution(N, nums, questions):
 2 3 2 2
 1
 2 4
+"""
+"""
+4
+1 2 3 4
+10
+1 1
+1 2
+1 3
+1 4
+2 2
+2 3
+2 4
+3 3
+3 4
+4 4
 """
