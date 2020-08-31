@@ -4,6 +4,7 @@ from collections import deque
 
 
 def solution(N, edges, asked):
+    root = 1
     nd_tree = {}
     for a, b in edges:
         nd_tree.setdefault(a, []).append(b)
@@ -23,8 +24,9 @@ def solution(N, edges, asked):
                 tree[goto] = at
                 node_depth[goto] = depth+1
                 que.append((goto, depth+1))
+
     ancestry_d = len(bin(max_depth)[2:])+1
-    lca = [[0 for _ in range(ancestry_d)] for _ in range(N+1)]
+    lca = [[root for _ in range(ancestry_d)] for _ in range(N+1)]
     for node in range(1, N+1):
         for anc in range(ancestry_d):
             if anc == 0:

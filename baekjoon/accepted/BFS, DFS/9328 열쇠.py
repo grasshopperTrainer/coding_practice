@@ -13,7 +13,7 @@ def solution(H, W, map, keys):
     H, W = H+2, W+2
 
     # search tools
-    doors = {}
+    doors = set()
     keys = set(keys)
     score = [0]
     visited = set()
@@ -31,24 +31,38 @@ def solution(H, W, map, keys):
                     if v == SPACE:
                         pass
                     elif v == TREASURE:
-                        print('score at', nx, ny)
                         score[0] += 1
                     elif v == WALL:
                         visited.add((nx, ny))
                         continue
-                    else:         # no space, treasure, wall
-                        if v.islower():     # must be a key
+                    else:               # no space, treasure, wall
+                        if v.islower(): # must be a key
                             keys.add(v)
-                        else:               # must be a door
-                            if v.lower() not in keys:
-                                doors[v] = (nx, ny)
+                        else:           # must be a door
+                            # if key exists, current bfs can keep searching through
+                            if v.lower() in keys:
+                                pass
+                            else:   # else mark it as a door
+                                doors.add((v.lower(), nx, ny))
                                 visited.add((nx, ny))
                                 continue
                     visited.add((nx, ny))
                     que.append((nx, ny))
-    print(bfs((0,0)))
-    print(doors, keys, score)
-    exit()
+    # search
+    bfs((0,0))  # init
+    while True:
+        goto = None
+        for door in doors:  # search for teleportable door
+            if door[0] in keys:
+                goto = door
+                break
+        if goto is None:    # nowhere to goto
+            break
+        bfs(goto[1:])       # teleport to the door
+        doors.remove(goto)  # no need to visit the door again
+
+    return score[0]
+
 
 for _ in range(int(stdin.readline())):
     H, W = [int(c) for c in stdin.readline().strip().split(' ')]
