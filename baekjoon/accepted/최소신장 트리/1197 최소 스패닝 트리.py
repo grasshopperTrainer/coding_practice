@@ -1,69 +1,41 @@
 from sys import stdin
-import heapq
 
 
-def kruscsal(V, E, edges):
-    # prepare edges
-    edges.sort(key=lambda x: x[2])
+def ds_root(node, tree):
+    if tree[node] == node:
+        return node
 
-    ds = [i for i in range(V)]
-    ds_height = [1 for _ in range(V)]
-    # use disjoint set
-    def ds_find(idx):
-        if ds[idx] == idx:
-            return idx
-        # compressing
-        ds[idx] = ds_find(ds[idx])
-        return ds[idx]
+    root = ds_root(tree[node], tree)
+    tree[node] = root
+    return root
 
-    def ds_union(a, b):
-        root_a, root_b = ds_find(a), ds_find(b)
-        if root_a == root_b:
-            return False
-        if ds_height[root_a] < ds_height[root_b]:
-            ds[root_a] = root_b
-        else:
-            ds[root_b] = root_a
 
-            if ds_height[root_a] == ds_height[root_b]:
-                ds_height[root_a] += 1
-        return True
+def ds_union(a, b, tree, tree_height):
+    roots = [ds_root(n, tree) for n in (a, b)]
+    if roots[0] == roots[1]:
+        return False
 
-    cost = 0
-    for a, b, w in edges:
-        if ds_union(a-1, b-1):
-            cost += w
-    return cost
-
-def prim(V, E, edges):
-    # map vertex
-    graph = {}
-    for a, b, w in edges:
-        graph.setdefault(a, []).append((w, b))
-        graph.setdefault(b, []).append((w, a))
-
-    # start from arbitrary 1
-    selected = {1}
-    heap = graph[1]
-    heapq.heapify(heap)
-
-    cost = 0
-    while heap:
-        w, dir = heapq.heappop(heap)
-        if dir not in selected:
-            selected.add(dir)
-            cost += w
-            for i in graph[dir]:
-                heapq.heappush(heap, i)
-    return cost
+    if tree_height[roots[0]] > tree_height[roots[1]]:
+        tree[roots[1]] = roots[0]
+    else:
+        tree[roots[0]] = roots[1]
+        if tree_height[roots[0]] == tree_height[roots[1]]:
+            tree_height[roots[1]] += 1
+    return True
 
 
 def solution(V, E, edges):
+    # use disjoint set
+    tree = [i for i in range(V + 1)]  # use 1indexing
+    tree_height = [1 for _ in range(V + 1)]
+    edges.sort(key=lambda x: x[2])
 
-    if V**3 < E:
-        return prim(V, E, edges)
-    else:
-        return kruscsal(V, E, edges)
+    total_c = 0
+    for a, b, cost in edges:
+        if ds_union(a, b, tree, tree_height):
+            total_c += cost
+
+    return total_c
 
 
 V, E = 0, 0

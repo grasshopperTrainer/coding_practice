@@ -1,40 +1,37 @@
 from sys import stdin, setrecursionlimit
-from math import inf
 
 
-setrecursionlimit(100000)
-def solution(num_node, K, build_time, target, plan):
-    # flip graph
-    graph = [[] for _ in range(num_node)]
-    for f, t in plan:
-        graph[t-1].append(f-1)
-    # use dp
-    dp = {}
+setrecursionlimit(101100)
+def solution(N, K, T, G, E):
+    # use 1index
+    graph = [[] for i in range(N+1)]    # record building before
+    for before, current in E:
+        graph[current].append(before)
 
-    def search(at):
-        if not graph[at]:
-            return build_time[at]
-        if at in dp:
+    # search using dfs
+    dp = [None for _ in range(N+1)] # None for not recorded
+
+    def dfs(at):
+        if dp[at] is not None:
             return dp[at]
-        t = -inf
-        for comefrom in graph[at]:
-            t = max((t, search(comefrom)))
+        max_time = 0 # max building all previous building
+        for prev in graph[at]:
+            max_time = max(max_time, dfs(prev))
+        # record to reference afterward
+        dp[at] = max_time + T[at-1] # -1 for 0indexing
+        return dp[at]
 
-        dp[at] = t+build_time[at]
-        return t + build_time[at]
-
-    return search(target - 1)
+    return dfs(G)
 
 
 for _ in range(int(stdin.readline())):
     N, K = [int(c) for c in stdin.readline().strip().split(' ')]
-    D, plan = 0, []
+    T, E = 0, []
     for i in range(K + 1):
         row = [int(c) for c in stdin.readline().strip().split(' ')]
         if i == 0:
-            D = row
+            T = row
         else:
-            plan.append(row)
-    T = int(stdin.readline())
-    print(solution(N, K, D, T, plan))
-# print(solution(4, 4, [10, 1, 100, 10], 4, [[1, 2], [1, 3], [2, 4], [3, 4]]))
+            E.append(row)
+    G = int(stdin.readline())
+    print(solution(N, K, T, G, E))
