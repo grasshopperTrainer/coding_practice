@@ -1,63 +1,46 @@
-# not accepted
-from sys import stdin
-from collections import deque
+from sys import stdin, setrecursionlimit
 
 
+setrecursionlimit(50_100)
 def solution(N, edges, asked):
-    root = 1
+    # build none directed tree
+    ROOT = 1
     nd_tree = {}
     for a, b in edges:
         nd_tree.setdefault(a, []).append(b)
         nd_tree.setdefault(b, []).append(a)
-    # find directed tree and depth
-    tree = [i for i in range(N+1)]
-    node_depth = [0 for _ in range(N+1)]
-    max_depth = 0
-    que = deque([[1,0]])
-    visited = {1}
-    while que:
-        at, depth = que.popleft()
-        max_depth = max((max_depth, depth))
-        for goto in nd_tree[at]:
-            if goto not in visited:
-                visited.add(goto)
-                tree[goto] = at
-                node_depth[goto] = depth+1
-                que.append((goto, depth+1))
 
-    ancestry_d = len(bin(max_depth)[2:])+1
-    lca = [[root for _ in range(ancestry_d)] for _ in range(N+1)]
-    for node in range(1, N+1):
-        for anc in range(ancestry_d):
-            if anc == 0:
-                lca[node][anc] = tree[node]
-            else:
-                lca[node][anc] = lca[lca[node][anc-1]][anc-1]
-    # for row in lca:
-    #     print(row)
+    # build ancestor tree with implicit directed tree
+    node_depth = [0 for _ in range(N+1)]
+    ancestry_d = len(bin(50_000)[2:])
+    anc = [[ROOT]*ancestry_d for _ in range(N+1)]
+    def build_anc(node, ancestor):
+        node_depth[node] = node_depth[ancestor] + 1 # update depth
+        anc[node][0] = ancestor
+        # look back anc and fill in ancestors
+        for i in range(1, ancestry_d):
+            anc[node][i] = anc[anc[node][i-1]][i-1]
+        # continue filling in ancestors
+        for child in nd_tree[node]:
+            if child != ancestor:
+                build_anc(child, node)
+    build_anc(1, 1)
+
     # search asked
     answers = []
     for a, b in asked:
-        # print('starting at', a, b)
+        # match depth
         while node_depth[a] != node_depth[b]:
             if node_depth[a] > node_depth[b]:
-                a = tree[a]
+                a = anc[a][0]
             else:
-                b = tree[b]
-        # print('after matching depth', a, b)
-        # if a == b:
-        #     answers.append(a)
-        #     continue
+                b = anc[b][0]
+        # find lowest
         while a != b:
-            anc = 0
-            while lca[a][anc+1] != lca[b][anc+1]:
-                anc += 1
-            a, b = lca[a][anc], lca[b][anc]
-        # print('after jumping', a, b, anc)
-        # print()
-        # while a != b:
-        #     a = tree[a]
-        #     b = tree[b]
+            ca = 0
+            while anc[a][ca+1] != anc[b][ca+1]:
+                ca += 1
+            a, b = anc[a][ca], anc[b][ca]
         answers.append(a)
     return answers
 
@@ -73,11 +56,6 @@ for _ in range(M):
 
 for a in solution(N, edges, asked):
     print(a)
-def tree_builder(N):
-    root = 1
-    tree = [i for i in range(N)]
-
-    pass
 
 """
 26

@@ -1,96 +1,145 @@
-import sys
+from sys import stdin
 from collections import deque
-from functools import reduce
 
 
-WALL, RED, BLUE, HOLE, EXIT = '#', 'R', 'B', 'O', (-1, -1)
-N, M = 0, 0
-red, blue = None, None
-board = []
-for i, row in enumerate(sys.stdin.readlines()):
-    if i == 0:
-        N, M = list(map(int, row.strip().split(' ')))
-        continue
+def roll(marbles, delta, board):
+    WALL, HOLE = '#', 'O'
+    a, b = marbles
+    amove, bmove = True, True
+    while amove or bmove:
+        if amove:
+            atemp = a[0] + delta[0], a[1] + delta[1]
+            if board[atemp[0]][atemp[1]] == HOLE:
+                amove = False
+                a = atemp
+            elif board[atemp[0]][atemp[1]] == WALL:
+                amove = False
+            else:
+                a = atemp
+        if bmove:
+            btemp = b[0] + delta[0], b[1] + delta[1]
+            if btemp == a:
+                if board[a[0]][a[1]] == HOLE:
+                    b = btemp
+                bmove = False
+            elif board[btemp[0]][btemp[1]] == HOLE:
+                bmove = False
+                b = btemp
+            elif board[btemp[0]][btemp[1]] == WALL:
+                bmove = False
+            else:
+                b = btemp
+    return a, b
 
-    board.append(list(row.strip()))
-    if RED in row:
-        red = i - 1, row.find(RED)
-    if BLUE in row:
-        blue = i - 1, row.find(BLUE)
 
-def move(coord, delta):
-    return coord[0] + delta[0], coord[1] + delta[1]
+def solution(ROW, COL, board):
+    DELTA = ((-1, 0), (0, -1), (1, 0), (0, 1))
+    WALL, HOLE = '#', 'O'
+    rpos, bpos = None, None
+    for r in range(ROW):
+        for c in range(COL):
+            if board[r][c] == 'R':
+                rpos = (r, c)
+            elif board[r][c] == 'B':
+                bpos = (r, c)
 
-def get_ahead(coord, delta):
-    return board[coord[0] + delta[0]][coord[1] + delta[1]]
+    que = deque([(rpos, bpos, 0, -1)])  # marble pos, move count, last move
+    while que:
+        rpos, bpos, count, last = que.popleft()
+        if count == 10:
+            break
+        for next_move in range(4):
+            if (last - next_move) % 2 == 1 or last == -1:  # initial or go perpendicular
+                delta = DELTA[next_move]
+                # check which precede and simulate movement
+                if (delta[0] and rpos[0] * delta[0] >= bpos[0] * delta[0]) or (delta[1] and rpos[1] * delta[1] >= bpos[1] * delta[1]):
+                    marbles = [rpos, bpos]
+                    r, b = roll(marbles, delta, board)
+                else:
+                    marbles = [bpos, rpos]
+                    b, r = roll(marbles, delta, board)
 
-def get_current(coord):
-    return board[coord[0]][coord[1]]
-
-visited = {(red, blue)}
-movements = [(red, blue)] # R pos , B pos
-DELTA = ((0,-1), (0,1), (-1,0), (1,0))    # left, right, up, down
-for attempt in range(1, 11):
-    new_movements = []
-    for red, blue in movements:
-        for delta in DELTA:
-            t_red, t_blue = red[:], blue[:]
-            while True: # move red
-                if get_current(t_red) == HOLE:
-                    t_red = EXIT
-                    break
-                elif get_ahead(t_red, delta) == WALL:
-                    break
-                elif move(t_red, delta) == t_blue:
-                    if get_ahead(t_blue, delta) == HOLE:
-                        t_blue = EXIT
-                        t_red = EXIT
-                        break
-                    elif get_ahead(t_blue, delta) != WALL:
-                        t_blue = move(t_blue, delta)
-                        t_red = move(t_red, delta)
+                asign, bsign = board[r[0]][r[1]], board[b[0]][b[1]]
+                if asign == HOLE:
+                    if bsign == HOLE:
+                        continue
                     else:
-                        break
-                else:
-                    t_red = move(t_red, delta)
+                        return count + 1
+                elif bsign == HOLE:
+                    continue
+                if r != rpos or b != bpos:
+                    que.append((r, b, count + 1, next_move))
+    return -1
 
-            while True: # move blue
-                if t_blue == EXIT:
-                    break
-                if get_ahead(t_blue, delta) == HOLE:
-                    t_blue = EXIT
-                elif get_ahead(t_blue, delta) == WALL or move(t_blue, delta) == t_red:
-                    break
-                else:
-                    t_blue = move(t_blue, delta)
 
-            if t_red == EXIT and t_blue != EXIT:
-                print(attempt)
-                exit()
+R, C = [int(c) for c in stdin.readline().strip().split(' ')]
+board = []
+for _ in range(R):
+    board.append(stdin.readline().strip())
+print(solution(R, C, board))
 
-            elif (t_red, t_blue) not in visited and t_red != t_blue != EXIT:
-                visited.add((t_red, t_blue))
-                new_movements.append([t_red, t_blue])
-
-    movements = new_movements
-    if not movements:
-        break
-
-print(-1)
-
+"""
+4 7
+#######
+##....#
+#ORB#.#
+#######
+"""
+"""
+3 7
+#######
+#BO..R#
+#######
+"""
+"""
+4 7
+#######
+#R....#
+##.OB##
+#######
+"""
+"""
+4 7
+#######
+#.....#
+##ROB##
+#######
+"""
+"""
+5 7
+#######
+#R....#
+#..O..#
+#....B#
+#######
+"""
+"""
+6 9
+#########
+#R......#
+#.O.....#
+#.......#
+#......B#
+#########
+"""
+"""
+10 10
+##########
+#R#...##.#
+#...#.##.#
+#####.##.#
+#......#.#
+#.######.#
+#.#..BO#.#
+#.#.#.#..#
+#...#.##.#
+##########
+"""
 """
 5 5
 #####
+#O..#
 #R..#
-#.O.#
-#..B#
-#####
-3 4
-#####
-#...#
-#.R.#
-#.B.#
-#.O.#
-#...#
+#B..#
 #####
 """

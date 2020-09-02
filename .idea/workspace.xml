@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4779bfb-d93c-4919-9e24-08852ecfec63" name="Default Changelist" comment="study study study study study study">
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1987 알파벳_DFS recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1987 알파벳_DFS stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2143 두 배열의 합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/DP 다이나믹 프로그래밍/1509 팰린드롬 분할.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/DP 다이나믹 프로그래밍/45656 계단 수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/not_solved/2342 Dance Dance Revolution.py" afterDir="false" />
+    <list default="true" id="d4779bfb-d93c-4919-9e24-08852ecfec63" name="Default Changelist" comment="study study study study study study study">
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/14939 불 끄기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/DP 다이나믹 프로그래밍/12849 본대 산책.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/DP 다이나믹 프로그래밍/2342 Dance Dance Revolution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/DS/10775 공항.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/MST 최소신장 트리/2887 행성 터널.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/MST 최소신장 트리/4386 별자리 만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/수학/9527 1의 개수 세기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/accepted/1987 알파벳.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/accepted/DP 다이나믹 프로그래밍/7453 합이 0인 네 정수.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/accepted/투 포인터/7453 합이 0인 네 정수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/accepted/그래프, DP/1005 ACM Craft.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/accepted/그래프, DP/1005 ACM Craft.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/accepted/그래프, DP/1516 게임 개발.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/accepted/그래프, DP/1516 게임 개발.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/accepted/수학/1007 벡터 매칭.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/accepted/수학/1007 벡터 매칭.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/accepted/최소신장 트리/1197 최소 스패닝 트리.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/accepted/최소신장 트리/1197 최소 스패닝 트리.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/need revision/1509 팰린드롬 분할.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/need revision/45656 계단 수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/accepted/12852 1로 만들기 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/accepted/12852 1로 만들기 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/accepted/13460 구슬 탈출 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/accepted/13460 구슬 탈출 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/accepted/DP 다이나믹 프로그래밍/10942 팰린드롬.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/accepted/DP 다이나믹 프로그래밍/10942 팰린드롬.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/accepted/최소공통조상/11437 LCA.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/accepted/최소공통조상/11437 LCA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/accepted/최소신장 트리/1197 최소 스패닝 트리.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/accepted/MST 최소신장 트리/1197 최소 스패닝 트리.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/not_solved/2342 Dance Dance Revolution.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,19 +45,19 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted\DP 다이나믹 프로그래밍" />
-      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\not_solved" />
-      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted\투 포인터" />
-      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted\백 트래킹" />
-      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\need revision" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted\DP 다이나믹 프로그래밍" />
+      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted\DS" />
+      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted\수학" />
+      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\not_solved" />
+      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted\투 포인터" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.2342 Dance Dance Revolution">
-    <configuration name="10844 쉬운 계단 수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.14003 가장 긴 증가하는 부분 수열 5">
+    <configuration name="12849 본대 산책" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/10844 쉬운 계단 수.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted\DP 다이나믹 프로그래밍\12849 본대 산책.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1197 최소 스패닝 트리" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12852 1로 만들기 2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/accepted/최소신장 트리" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/최소신장 트리/1197 최소 스패닝 트리.py" />
+      <option name="SCRIPT_NAME" value="/12852 1로 만들기 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1509 팰린드롬 분할" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12852 1로 만들기 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/need revision" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/accepted" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted\DP 다이나믹 프로그래밍\1509 팰린드롬 분할.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/12852 1로 만들기 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1516 게임 개발" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="13460 구슬 탈출 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/accepted/그래프, DP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/accepted" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/그래프, DP/1516 게임 개발.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/13460 구슬 탈출 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2342 Dance Dance Revolution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="14003 가장 긴 증가하는 부분 수열 5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/not_solved" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/accepted/LIS 가장 긴 증가하는 부분수열" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/not_solved/2342 Dance Dance Revolution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/LIS 가장 긴 증가하는 부분수열/14003 가장 긴 증가하는 부분 수열 5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2342 Dance Dance Revolution" />
-        <item itemvalue="Python.10844 쉬운 계단 수" />
-        <item itemvalue="Python.1516 게임 개발" />
-        <item itemvalue="Python.1509 팰린드롬 분할" />
-        <item itemvalue="Python.1197 최소 스패닝 트리" />
+        <item itemvalue="Python.14003 가장 긴 증가하는 부분 수열 5" />
+        <item itemvalue="Python.13460 구슬 탈출 2" />
+        <item itemvalue="Python.12852 1로 만들기 2" />
+        <item itemvalue="Python.12852 1로 만들기 2 (1)" />
+        <item itemvalue="Python.12849 본대 산책" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598886953587</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="study study study study study study study">
+      <created>1598976968514</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1598976968514</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -260,7 +266,8 @@
     <MESSAGE value="study study study study" />
     <MESSAGE value="study study study study study" />
     <MESSAGE value="study study study study study study" />
-    <option name="LAST_COMMIT_MESSAGE" value="study study study study study study" />
+    <MESSAGE value="study study study study study study study" />
+    <option name="LAST_COMMIT_MESSAGE" value="study study study study study study study" />
   </component>
   <component name="WindowStateProjectService">
     <state x="420" y="46" key="#5773_웰컴" timestamp="1590579274078">
@@ -271,12 +278,12 @@
       <screen x="62" y="0" width="1306" height="912" />
     </state>
     <state x="583" y="316" width="602" height="470" key="#Notifications/62.0.1306.912@62.0.1306.912" timestamp="1590594020692" />
-    <state x="285" y="0" key="CommitChangelistDialog2" timestamp="1598973276149">
-      <screen x="0" y="0" width="1368" height="882" />
+    <state x="400" y="0" key="CommitChangelistDialog2" timestamp="1599042387930">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="400" y="0" key="CommitChangelistDialog2/-362.1080.1368.897/0.0.1920.1050@0.0.1920.1050" timestamp="1598783445683" />
-    <state x="285" y="0" key="CommitChangelistDialog2/0.0.1368.882@0.0.1368.882" timestamp="1598973276149" />
-    <state x="400" y="0" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1598886952315" />
+    <state x="285" y="0" key="CommitChangelistDialog2/0.0.1368.882@0.0.1368.882" timestamp="1598976967201" />
+    <state x="400" y="0" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1599042387930" />
     <state x="334" y="0" key="CommitChangelistDialog2/62.0.1306.912@62.0.1306.912" timestamp="1591720420319" />
     <state x="155" y="93" width="1119" height="725" key="DiffContextDialog" timestamp="1590593984530">
       <screen x="62" y="0" width="1306" height="912" />
@@ -286,60 +293,60 @@
       <screen x="62" y="0" width="1306" height="912" />
     </state>
     <state x="496" y="196" key="FileChooserDialogImpl/62.0.1306.912@62.0.1306.912" timestamp="1590823446822" />
-    <state width="660" height="213" key="GridCell.Tab.0.bottom" timestamp="1598973733385">
-      <screen x="0" y="0" width="1368" height="882" />
+    <state width="934" height="241" key="GridCell.Tab.0.bottom" timestamp="1599054074209">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1897" height="375" key="GridCell.Tab.0.bottom/-362.1080.1368.897/0.0.1920.1020@0.0.1920.1020" timestamp="1598524402702" />
     <state width="934" height="418" key="GridCell.Tab.0.bottom/-362.1080.1368.897/0.0.1920.1050@0.0.1920.1050" timestamp="1598844265334" />
-    <state width="660" height="213" key="GridCell.Tab.0.bottom/0.0.1368.882@0.0.1368.882" timestamp="1598973733385" />
-    <state width="934" height="381" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1598951629321" />
+    <state width="660" height="282" key="GridCell.Tab.0.bottom/0.0.1368.882@0.0.1368.882" timestamp="1598976985731" />
+    <state width="934" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1599054074209" />
     <state width="1284" height="345" key="GridCell.Tab.0.bottom/62.0.1306.912@62.0.1306.912" timestamp="1591876112417" />
-    <state width="660" height="213" key="GridCell.Tab.0.center" timestamp="1598973733385">
-      <screen x="0" y="0" width="1368" height="882" />
+    <state width="934" height="241" key="GridCell.Tab.0.center" timestamp="1599054074209">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1897" height="375" key="GridCell.Tab.0.center/-362.1080.1368.897/0.0.1920.1020@0.0.1920.1020" timestamp="1598524402700" />
     <state width="934" height="418" key="GridCell.Tab.0.center/-362.1080.1368.897/0.0.1920.1050@0.0.1920.1050" timestamp="1598844265334" />
-    <state width="660" height="213" key="GridCell.Tab.0.center/0.0.1368.882@0.0.1368.882" timestamp="1598973733385" />
-    <state width="934" height="381" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1598951629321" />
+    <state width="660" height="282" key="GridCell.Tab.0.center/0.0.1368.882@0.0.1368.882" timestamp="1598976985731" />
+    <state width="934" height="241" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1599054074209" />
     <state width="1284" height="345" key="GridCell.Tab.0.center/62.0.1306.912@62.0.1306.912" timestamp="1591876112416" />
-    <state width="660" height="213" key="GridCell.Tab.0.left" timestamp="1598973733384">
-      <screen x="0" y="0" width="1368" height="882" />
+    <state width="934" height="241" key="GridCell.Tab.0.left" timestamp="1599054074209">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1897" height="375" key="GridCell.Tab.0.left/-362.1080.1368.897/0.0.1920.1020@0.0.1920.1020" timestamp="1598524402698" />
     <state width="934" height="418" key="GridCell.Tab.0.left/-362.1080.1368.897/0.0.1920.1050@0.0.1920.1050" timestamp="1598844265334" />
-    <state width="660" height="213" key="GridCell.Tab.0.left/0.0.1368.882@0.0.1368.882" timestamp="1598973733384" />
-    <state width="934" height="381" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1598951629321" />
+    <state width="660" height="282" key="GridCell.Tab.0.left/0.0.1368.882@0.0.1368.882" timestamp="1598976985731" />
+    <state width="934" height="241" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1599054074209" />
     <state width="1284" height="345" key="GridCell.Tab.0.left/62.0.1306.912@62.0.1306.912" timestamp="1591876112416" />
-    <state width="660" height="213" key="GridCell.Tab.0.right" timestamp="1598973733385">
-      <screen x="0" y="0" width="1368" height="882" />
+    <state width="934" height="241" key="GridCell.Tab.0.right" timestamp="1599054074209">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1897" height="375" key="GridCell.Tab.0.right/-362.1080.1368.897/0.0.1920.1020@0.0.1920.1020" timestamp="1598524402701" />
     <state width="934" height="418" key="GridCell.Tab.0.right/-362.1080.1368.897/0.0.1920.1050@0.0.1920.1050" timestamp="1598844265334" />
-    <state width="660" height="213" key="GridCell.Tab.0.right/0.0.1368.882@0.0.1368.882" timestamp="1598973733385" />
-    <state width="934" height="381" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1598951629321" />
+    <state width="660" height="282" key="GridCell.Tab.0.right/0.0.1368.882@0.0.1368.882" timestamp="1598976985731" />
+    <state width="934" height="241" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1599054074209" />
     <state width="1284" height="345" key="GridCell.Tab.0.right/62.0.1306.912@62.0.1306.912" timestamp="1591876112417" />
     <state x="229" y="102" key="SettingsEditor" timestamp="1590897502094">
       <screen x="62" y="0" width="1306" height="912" />
     </state>
     <state x="229" y="102" key="SettingsEditor/62.0.1306.912@62.0.1306.912" timestamp="1590897502094" />
-    <state x="361" y="215" key="Vcs.Push.Dialog.v2" timestamp="1598886957433">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="360" y="216" key="Vcs.Push.Dialog.v2/-362.1080.1368.897/0.0.1920.1050@0.0.1920.1050" timestamp="1598461802300" />
-    <state x="257" y="181" key="Vcs.Push.Dialog.v2/0.0.1368.882@0.0.1368.882" timestamp="1598716347413" />
-    <state x="361" y="215" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1598886957433" />
-    <state x="307" y="188" key="Vcs.Push.Dialog.v2/62.0.1306.912@62.0.1306.912" timestamp="1591720426948" />
-    <state x="750" y="84" width="552" height="720" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1598973267497">
+    <state x="257" y="181" key="Vcs.Push.Dialog.v2" timestamp="1598976972264">
       <screen x="0" y="0" width="1368" height="882" />
     </state>
+    <state x="360" y="216" key="Vcs.Push.Dialog.v2/-362.1080.1368.897/0.0.1920.1050@0.0.1920.1050" timestamp="1598461802300" />
+    <state x="257" y="181" key="Vcs.Push.Dialog.v2/0.0.1368.882@0.0.1368.882" timestamp="1598976972264" />
+    <state x="361" y="215" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1598886957433" />
+    <state x="307" y="188" key="Vcs.Push.Dialog.v2/62.0.1306.912@62.0.1306.912" timestamp="1591720426948" />
+    <state x="1053" y="100" width="774" height="857" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599045814950">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
     <state x="750" y="84" width="552" height="720" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1368.882@0.0.1368.882" timestamp="1598973267497" />
-    <state x="1053" y="100" width="774" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1598930072523" />
-    <state x="673" y="424" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598943255344">
+    <state x="1053" y="100" width="774" height="857" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1599045814950" />
+    <state x="673" y="424" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599052996136">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="673" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-362.1080.1368.897/0.0.1920.1020@0.0.1920.1020" timestamp="1598518203169" />
     <state x="673" y="424" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-362.1080.1368.897/0.0.1920.1050@0.0.1920.1050" timestamp="1598603640690" />
-    <state x="673" y="424" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1598943255344" />
+    <state x="673" y="424" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1599052996136" />
     <state x="520" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1306.912@62.0.1306.912" timestamp="1591104272100" />
     <state x="378" y="181" width="610" height="536" key="find.popup" timestamp="1598956285369">
       <screen x="0" y="0" width="1368" height="882" />
@@ -351,12 +358,12 @@
       <screen x="62" y="0" width="1306" height="912" />
     </state>
     <state x="884" y="229" key="refactoring.ChangeSignatureDialog/62.0.1306.912@62.0.1306.912" timestamp="1591182347483" />
-    <state x="334" y="189" width="672" height="570" key="search.everywhere.popup" timestamp="1598973210232">
-      <screen x="0" y="0" width="1368" height="882" />
+    <state x="465" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1599046502408">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="465" y="223" width="672" height="678" key="search.everywhere.popup/-362.1080.1368.897/0.0.1920.1050@0.0.1920.1050" timestamp="1598783227633" />
     <state x="334" y="189" width="672" height="570" key="search.everywhere.popup/0.0.1368.882@0.0.1368.882" timestamp="1598973210232" />
-    <state x="465" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1598944129642" />
+    <state x="465" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1599046502408" />
     <state x="378" y="194" key="search.everywhere.popup/62.0.1306.912@62.0.1306.912" timestamp="1591713179740" />
   </component>
 </project>
