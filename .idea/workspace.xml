@@ -19,19 +19,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4779bfb-d93c-4919-9e24-08852ecfec63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1016 제곱 ㄴㄴ 수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1029 그림 교환.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1030 프렉탈 평면.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1033 칵테일.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1035 조각 움직이기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1275 커피숍2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1484 다이어트.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1623 신년 파티.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1623 신년 파티_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/16234 인구 이동.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/DP 다이나믹 프로그래밍/1028 다이아몬드 광산.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding interview practice/1.1.py" afterDir="false" />
+    <list default="true" id="d4779bfb-d93c-4919-9e24-08852ecfec63" name="Default Changelist" comment="study study study study study study study study study study study study">
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1013 Contact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1022 소용돌이 예쁘게 출력하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1034 램프.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1036 36진수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1038 감소하는 수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1043 거짓말.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1050 물약.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1053 팰린드롬 공장.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1060 좋은 수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1062 가르침.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1079 마피아.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1081 합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1082 방 번호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1083 소트.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1091 카드 섞기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/coding_practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/coding_practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +57,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1cRn7l2IG64fs13zGbyZ5fmdtaY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -64,14 +77,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sensitive/2020 우아한테크코스" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -88,7 +101,7 @@
       <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted\그래프, DP" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1.1">
+  <component name="RunManager" selected="Python.1091 카드 섞기">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -100,7 +113,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="1.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1079 마피아" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coding interview practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/accepted" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coding interview practice/1.1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1079 마피아.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1081 합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sensitive/2020 우아한테크코스" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/accepted" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sensitive/2020 우아한테크코스/3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1081 합.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1082 방 번호" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sensitive/2020 우아한테크코스" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/accepted" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sensitive/2020 우아한테크코스/5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1082 방 번호.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1083 소트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,11 +184,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sensitive/2020 우아한테크코스" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/accepted" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sensitive/2020 우아한테크코스/6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1083 소트.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1091 카드 섞기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,11 +205,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sensitive/2020 우아한테크코스" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/accepted" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sensitive/2020 우아한테크코스/7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1091 카드 섞기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,15 +220,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1.1" />
-        <item itemvalue="Python.7" />
-        <item itemvalue="Python.6" />
-        <item itemvalue="Python.5" />
-        <item itemvalue="Python.3" />
+        <item itemvalue="Python.1091 카드 섞기" />
+        <item itemvalue="Python.1083 소트" />
+        <item itemvalue="Python.1082 방 번호" />
+        <item itemvalue="Python.1081 합" />
+        <item itemvalue="Python.1079 마피아" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -326,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601654643569</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="study study study study study study study study study study study study">
+      <created>1615339199966</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1615339199966</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -359,71 +379,7 @@
     <MESSAGE value="study study study study study study study study study" />
     <MESSAGE value="study study study study study study study study study study" />
     <MESSAGE value="study study study study study study study study study study study" />
-    <option name="LAST_COMMIT_MESSAGE" value="study study study study study study study study study study study" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="400" y="0" key="CommitChangelistDialog2" timestamp="1601654642171">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="400" y="0" key="CommitChangelistDialog2/-362.1080.1368.897/0.0.1920.1050@0.0.1920.1050" timestamp="1598783445683" />
-    <state x="285" y="0" key="CommitChangelistDialog2/0.0.1368.882@0.0.1368.882" timestamp="1598976967201" />
-    <state x="400" y="0" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1601654642171" />
-    <state width="1897" height="321" key="GridCell.Tab.0.bottom" timestamp="1606261362374">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1897" height="375" key="GridCell.Tab.0.bottom/-362.1080.1368.897/0.0.1920.1020@0.0.1920.1020" timestamp="1598524402702" />
-    <state width="934" height="418" key="GridCell.Tab.0.bottom/-362.1080.1368.897/0.0.1920.1050@0.0.1920.1050" timestamp="1598844265334" />
-    <state width="659" height="246" key="GridCell.Tab.0.bottom/0.0.1368.882@0.0.1368.882" timestamp="1604020630015" />
-    <state width="1897" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1606261362374" />
-    <state width="1897" height="321" key="GridCell.Tab.0.center" timestamp="1606261362374">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1897" height="375" key="GridCell.Tab.0.center/-362.1080.1368.897/0.0.1920.1020@0.0.1920.1020" timestamp="1598524402700" />
-    <state width="934" height="418" key="GridCell.Tab.0.center/-362.1080.1368.897/0.0.1920.1050@0.0.1920.1050" timestamp="1598844265334" />
-    <state width="659" height="246" key="GridCell.Tab.0.center/0.0.1368.882@0.0.1368.882" timestamp="1604020630015" />
-    <state width="1897" height="321" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1606261362374" />
-    <state width="1897" height="321" key="GridCell.Tab.0.left" timestamp="1606261362374">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1897" height="375" key="GridCell.Tab.0.left/-362.1080.1368.897/0.0.1920.1020@0.0.1920.1020" timestamp="1598524402698" />
-    <state width="934" height="418" key="GridCell.Tab.0.left/-362.1080.1368.897/0.0.1920.1050@0.0.1920.1050" timestamp="1598844265334" />
-    <state width="659" height="246" key="GridCell.Tab.0.left/0.0.1368.882@0.0.1368.882" timestamp="1604020630014" />
-    <state width="1897" height="321" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1606261362374" />
-    <state width="1897" height="321" key="GridCell.Tab.0.right" timestamp="1606261362374">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1897" height="375" key="GridCell.Tab.0.right/-362.1080.1368.897/0.0.1920.1020@0.0.1920.1020" timestamp="1598524402701" />
-    <state width="934" height="418" key="GridCell.Tab.0.right/-362.1080.1368.897/0.0.1920.1050@0.0.1920.1050" timestamp="1598844265334" />
-    <state width="659" height="246" key="GridCell.Tab.0.right/0.0.1368.882@0.0.1368.882" timestamp="1604020630015" />
-    <state width="1897" height="321" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1606261362374" />
-    <state x="361" y="215" key="Vcs.Push.Dialog.v2" timestamp="1603956508265">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="360" y="216" key="Vcs.Push.Dialog.v2/-362.1080.1368.897/0.0.1920.1050@0.0.1920.1050" timestamp="1598461802300" />
-    <state x="257" y="181" key="Vcs.Push.Dialog.v2/0.0.1368.882@0.0.1368.882" timestamp="1598976972264" />
-    <state x="361" y="215" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1603956508265" />
-    <state x="-6" y="0" width="972" height="1056" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604675846574">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="750" y="84" width="552" height="720" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1368.882@0.0.1368.882" timestamp="1599992070165" />
-    <state x="-6" y="0" width="972" height="1056" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1604675846574" />
-    <state x="673" y="424" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604025629524">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="673" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-362.1080.1368.897/0.0.1920.1020@0.0.1920.1020" timestamp="1598518203169" />
-    <state x="673" y="424" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-362.1080.1368.897/0.0.1920.1050@0.0.1920.1050" timestamp="1598603640690" />
-    <state x="673" y="424" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1604025629524" />
-    <state x="531" y="215" width="857" height="639" key="find.popup" timestamp="1603962576996">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="531" y="215" width="856" height="618" key="find.popup/-362.1080.1368.897/0.0.1920.1050@0.0.1920.1050" timestamp="1598778974621" />
-    <state x="378" y="181" width="610" height="536" key="find.popup/0.0.1368.882@0.0.1368.882" timestamp="1598956285369" />
-    <state x="531" y="215" width="857" height="639" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1603962576996" />
-    <state x="465" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1604675088149">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="465" y="223" width="672" height="678" key="search.everywhere.popup/-362.1080.1368.897/0.0.1920.1050@0.0.1920.1050" timestamp="1598783227633" />
-    <state x="334" y="189" width="672" height="570" key="search.everywhere.popup/0.0.1368.882@0.0.1368.882" timestamp="1598973210232" />
-    <state x="465" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1604675088149" />
+    <MESSAGE value="study study study study study study study study study study study study" />
+    <option name="LAST_COMMIT_MESSAGE" value="study study study study study study study study study study study study" />
   </component>
 </project>
