@@ -19,11 +19,48 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4779bfb-d93c-4919-9e24-08852ecfec63" name="Default Changelist" comment="day2">
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1092 배.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1099 알 수 없는 문장.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1102 발전소.py" afterDir="false" />
+    <list default="true" id="d4779bfb-d93c-4919-9e24-08852ecfec63" name="Default Changelist" comment="day4">
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1103 게임.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1104 패턴.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1107 리모컨.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1111 IQ Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1112 진법 변환.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1113 수영장 만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1114 통나무 자르기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1365 꼬인 전깃줄.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/14728 벼락치기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1507 궁금한 민호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1522 문자열 교환.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1865 웜홀.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/19591 독특한 계산기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2096 내려가기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/3078 좋은 친구.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/4358 생태학.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="f1756692-fd19-49fc-a2ed-49dc5a851d0b" name="44" comment="">
+      <change afterPath="$PROJECT_DIR$/java coding practice/src/coding_interview_practice/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java coding practice/src/coding_interview_practice_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java coding practice/src/coding_interview_practice_2/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java coding practice/src/coding_interview_practice_2/Solve2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java coding practice/src/coding_interview_practice_2/Solve2_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java coding practice/src/coding_interview_practice_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java coding practice/src/coding_interview_practice_3/Problem3_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java coding practice/src/coding_interview_practice_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java coding practice/src/coding_interview_practice_4/Problem4_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java coding practice/src/scrible/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java coding practice/src/scrible_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java coding practice/src/scrible_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java coding practice/src/sorting_algorithms/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java coding practice/src/가운데를_말해요_1655/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java coding practice/src/게임_1072/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java coding practice/src/반도체_설계_2352/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java coding practice/src/반도체_설계_2352_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java coding practice/src/수들의_합_1789/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java coding practice/src/숫자_카드_10815/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java coding practice/src/알고스팟_1261/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java coding practice/src/예산_2512/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java coding practice/src/중량제한/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +124,7 @@
       <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted\그래프, DP" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1102 발전소">
+  <component name="RunManager" selected="Python.1507 궁금한 민호">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -99,7 +136,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="1091 카드 섞기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="14728 벼락치기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,7 +148,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1091 카드 섞기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/14728 벼락치기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1092 배" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1507 궁금한 민호" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +169,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1092 배.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1507 궁금한 민호.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1099 알 수 없는 문장" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="19591 독특한 계산기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,7 +190,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1099 알 수 없는 문장.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/19591 독특한 계산기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +199,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1102 발전소" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4358 생태학" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,7 +211,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1102 발전소.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/4358 생태학.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,11 +243,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1102 발전소" />
+        <item itemvalue="Python.1507 궁금한 민호" />
+        <item itemvalue="Python.4358 생태학" />
         <item itemvalue="Python.scratch_11" />
-        <item itemvalue="Python.1099 알 수 없는 문장" />
-        <item itemvalue="Python.1092 배" />
-        <item itemvalue="Python.1091 카드 섞기" />
+        <item itemvalue="Python.14728 벼락치기" />
+        <item itemvalue="Python.19591 독특한 계산기" />
       </list>
     </recent_temporary>
   </component>
@@ -221,6 +258,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d4779bfb-d93c-4919-9e24-08852ecfec63" name="Default Changelist" comment="" />
+      <changelist id="f1756692-fd19-49fc-a2ed-49dc5a851d0b" name="44" comment="" />
       <created>1590500108414</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -339,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615477618605</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="day3">
+      <created>1615607765961</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1615607765961</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -374,6 +419,7 @@
     <MESSAGE value="study study study study study study study study study study study" />
     <MESSAGE value="study study study study study study study study study study study study" />
     <MESSAGE value="day2" />
-    <option name="LAST_COMMIT_MESSAGE" value="day2" />
+    <MESSAGE value="day3" />
+    <option name="LAST_COMMIT_MESSAGE" value="day3" />
   </component>
 </project>
