@@ -18,7 +18,7 @@ def solution(N, edges, asked):
         node_depth[i] = depth
         max_depth = max((max_depth, depth))
 
-
+    # this part is incorrect
     ancestry_d = len(bin(max_depth)[2:])+1
     lca = [[0 for _ in range(ancestry_d)] for _ in range(N+1)]
     for node in range(1, N+1):
@@ -27,6 +27,7 @@ def solution(N, edges, asked):
                 lca[node][anc] = tree[node]
             else:
                 lca[node][anc] = lca[lca[node][anc-1]][anc-1]
+
     a, b = asked
     while node_depth[a] != node_depth[b]:
         if node_depth[a] > node_depth[b]:

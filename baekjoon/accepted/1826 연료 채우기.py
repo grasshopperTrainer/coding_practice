@@ -1,8 +1,24 @@
 from sys import stdin
+import heapq
 
 
 def solution(N, stations, L, P):
-    pass
+    stations.sort(reverse=True)
+    heap = []
+    count = 0
+    while P < L:
+        while stations and stations[-1][0] <= P:
+            dist, fuel = stations.pop()
+            heapq.heappush(heap, -fuel)
+
+        if not heap:
+            break
+        P -= heapq.heappop(heap)
+        count += 1
+
+    if L <= P:
+        return count
+    return -1
 
 
 N = int(stdin.readline())

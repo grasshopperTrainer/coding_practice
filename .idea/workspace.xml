@@ -19,14 +19,31 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4779bfb-d93c-4919-9e24-08852ecfec63" name="Default Changelist" comment="day6">
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1253 좋다.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1368 물대기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1414 불우이웃돕기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/17178 줄서기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1826 연료 채우기.py" afterDir="false" />
+    <list default="true" id="d4779bfb-d93c-4919-9e24-08852ecfec63" name="Default Changelist" comment="day7">
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1135 뉴스 전하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1176 섞기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/12764 싸지방에 간 준하.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1306 달려라 홍준.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1374 강의실.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/14438 수열과 쿼리 17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1445 일요일 아침의 데이트.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1445 일요일 아침의 데이트_heapq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1662 압축.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1715 카드 정렬하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1766 문제집.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1781 컵라면.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1933 스카이라인.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2014 소수의 곱.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2058 원자의 에너지_memexeed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2075 N번째 큰 수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2233 사과나무.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2379 트리 탐색하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2461 대표 선수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2533 사회망 서비스(SNS)_rev.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2696 중앙값 구하기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/accepted/1507 궁금한 민호.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/accepted/1507 궁금한 민호.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/accepted/1826 연료 채우기.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/accepted/1826 연료 채우기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/accepted/최소공통조상/3584 가장 가까운 공통 조상.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/accepted/최소공통조상/3584 가장 가까운 공통 조상.py" afterDir="false" />
     </list>
     <list id="f1756692-fd19-49fc-a2ed-49dc5a851d0b" name="44" comment="">
       <change afterPath="$PROJECT_DIR$/java coding practice/src/coding_interview_practice/Main.java" afterDir="false" />
@@ -90,7 +107,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/baekjoon/accepted" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -101,8 +118,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\sensitive\2020 우아한테크코스" />
       <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted" />
+      <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\sensitive\2020 우아한테크코스" />
       <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\sensitive\프로그래머스 월간 코드 챌린지 시즌1" />
       <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\sensitive\2021 카카오" />
     </key>
@@ -114,7 +131,7 @@
       <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted\그래프, DP" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1826 연료 채우기">
+  <component name="RunManager" selected="Python.scratch">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -126,7 +143,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="1253 좋다" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/accepted" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sensitive/2022 전반기 라인" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1253 좋다.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sensitive/2022 전반기 라인/2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1368 물대기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +172,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/accepted" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sensitive/2022 전반기 라인" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1368 물대기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sensitive/2022 전반기 라인/A.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1414 불우이웃돕기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,11 +193,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/accepted" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sensitive/2022 전반기 라인" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1414 불우이웃돕기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sensitive/2022 전반기 라인/B.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,7 +206,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17178 줄서기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="C" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,11 +214,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/accepted" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sensitive/2022 전반기 라인" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/17178 줄서기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sensitive/2022 전반기 라인/C.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,7 +227,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1826 연료 채우기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,11 +235,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/accepted" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1826 연료 채우기.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1826 연료 채우기" />
-        <item itemvalue="Python.17178 줄서기" />
-        <item itemvalue="Python.1253 좋다" />
-        <item itemvalue="Python.1414 불우이웃돕기" />
-        <item itemvalue="Python.1368 물대기" />
+        <item itemvalue="Python.scratch" />
+        <item itemvalue="Python.C" />
+        <item itemvalue="Python.B" />
+        <item itemvalue="Python.A" />
+        <item itemvalue="Python.2" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +398,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615821859824</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="day7">
+      <created>1615895502447</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1615895502447</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -418,6 +442,7 @@
     <MESSAGE value="day2" />
     <MESSAGE value="day3" />
     <MESSAGE value="day6" />
-    <option name="LAST_COMMIT_MESSAGE" value="day6" />
+    <MESSAGE value="day7" />
+    <option name="LAST_COMMIT_MESSAGE" value="day7" />
   </component>
 </project>
