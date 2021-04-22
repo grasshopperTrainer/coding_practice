@@ -19,12 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4779bfb-d93c-4919-9e24-08852ecfec63" name="Default Changelist" comment="commit noncommited">
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/19236 청소년 상어.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/19237 어른 상어.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/19238 스타트 택시.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/20055 컨베이어 벨트 위의 로봇.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/20061 모노미노도미노 2.py" afterDir="false" />
+    <list default="true" id="d4779bfb-d93c-4919-9e24-08852ecfec63" name="Default Changelist" comment="dday3">
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/17822 원판 돌리기 alt1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/17822 원판 돌리기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/17825 주사위 윷놀이.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/20055 컨베이어 벨트 위의 로봇 alt1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/20056 마법사 상어와 파이어볼.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/20057 마법사 상어와 토네이도.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/20058 마법사 상어와 파이어스톰.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="f1756692-fd19-49fc-a2ed-49dc5a851d0b" name="44" comment="">
@@ -113,7 +115,7 @@
       <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted\그래프, DP" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.20055 컨베이어 벨트 위의 로봇">
+  <component name="RunManager" selected="Python.17822 원판 돌리기 alt1">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -125,7 +127,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="19236 청소년 상어" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17822 원판 돌리기 alt1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +139,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/19236 청소년 상어.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/17822 원판 돌리기 alt1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="19237 어른 상어" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17822 원판 돌리기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,7 +160,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/19237 어른 상어.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/17822 원판 돌리기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="19238 스타트 택시" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17825 주사위 윷놀이" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,7 +181,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/19238 스타트 택시.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/17825 주사위 윷놀이.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="20055 컨베이어 벨트 위의 로봇" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="20057 마법사 상어와 토네이도" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,7 +202,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/20055 컨베이어 벨트 위의 로봇.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/20057 마법사 상어와 토네이도.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +211,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="20058 마법사 상어와 파이어스톰" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,11 +219,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/accepted" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/20058 마법사 상어와 파이어스톰.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.20055 컨베이어 벨트 위의 로봇" />
-        <item itemvalue="Python.19238 스타트 택시" />
-        <item itemvalue="Python.scratch" />
-        <item itemvalue="Python.19237 어른 상어" />
-        <item itemvalue="Python.19236 청소년 상어" />
+        <item itemvalue="Python.17822 원판 돌리기 alt1" />
+        <item itemvalue="Python.17822 원판 돌리기" />
+        <item itemvalue="Python.17825 주사위 윷놀이" />
+        <item itemvalue="Python.20058 마법사 상어와 파이어스톰" />
+        <item itemvalue="Python.20057 마법사 상어와 토네이도" />
       </list>
     </recent_temporary>
   </component>
@@ -394,7 +396,21 @@
       <option name="project" value="LOCAL" />
       <updated>1618918770958</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="dday -">
+      <created>1619015313030</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1619015313030</updated>
+    </task>
+    <task id="LOCAL-00022" summary="dday3">
+      <created>1619015352975</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1619015352975</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,6 +449,9 @@
     <MESSAGE value="day6" />
     <MESSAGE value="day7" />
     <MESSAGE value="commit noncommited" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit noncommited" />
+    <MESSAGE value="dday -" />
+    <MESSAGE value="dday - 3" />
+    <MESSAGE value="dday3" />
+    <option name="LAST_COMMIT_MESSAGE" value="dday3" />
   </component>
 </project>
