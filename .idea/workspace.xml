@@ -19,12 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4779bfb-d93c-4919-9e24-08852ecfec63" name="Default Changelist" comment="dday-4">
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/16933 벽 부수고 이동하기 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2151 거울 설치.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/3665 최종 순위.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/4991 로봇 청소기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/6087 레이저 통신.py" afterDir="false" />
+    <list default="true" id="d4779bfb-d93c-4919-9e24-08852ecfec63" name="Default Changelist" comment="dday-3">
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/11003 최솟값 찾기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/12738 가장 긴 증가하는 부분 수열 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1486 등산.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1701 Cubeditor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1981 배열에서 이동.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2003 수들의 합 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/2931 가스관.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/9084 동전.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/9376 탈옥.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="f1756692-fd19-49fc-a2ed-49dc5a851d0b" name="44" comment="">
@@ -113,7 +117,7 @@
       <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted\그래프, DP" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3665 최종 순위">
+  <component name="RunManager" selected="Python.1486 등산">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -125,7 +129,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="16933 벽 부수고 이동하기 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11003 최솟값 찾기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/16933 벽 부수고 이동하기 3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/11003 최솟값 찾기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2151 거울 설치" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12738 가장 긴 증가하는 부분 수열 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,7 +162,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/2151 거울 설치.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/12738 가장 긴 증가하는 부분 수열 3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3665 최종 순위" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1486 등산" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,7 +183,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/3665 최종 순위.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1486 등산.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4991 로봇 청소기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2003 수들의 합 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,7 +204,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/4991 로봇 청소기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/2003 수들의 합 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +213,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scratch_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9084 동전" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,11 +221,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/accepted" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/9084 동전.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3665 최종 순위" />
-        <item itemvalue="Python.16933 벽 부수고 이동하기 3" />
-        <item itemvalue="Python.scratch_11" />
-        <item itemvalue="Python.2151 거울 설치" />
-        <item itemvalue="Python.4991 로봇 청소기" />
+        <item itemvalue="Python.1486 등산" />
+        <item itemvalue="Python.9084 동전" />
+        <item itemvalue="Python.12738 가장 긴 증가하는 부분 수열 3" />
+        <item itemvalue="Python.11003 최솟값 찾기" />
+        <item itemvalue="Python.2003 수들의 합 2" />
       </list>
     </recent_temporary>
   </component>
@@ -422,7 +426,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620138180004</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="dday-3">
+      <created>1620234310498</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1620234310498</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -441,7 +452,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="study hanoi&#10;&#10;got to know more intuitively" />
     <MESSAGE value="try understand bitmask dp" />
     <MESSAGE value="study another dp&#10;&#10;And solve some simulations" />
     <MESSAGE value="study dp tracking&#10;&#10;study divide and conquer" />
@@ -466,6 +476,7 @@
     <MESSAGE value="dday3" />
     <MESSAGE value="dday2" />
     <MESSAGE value="dday-4" />
-    <option name="LAST_COMMIT_MESSAGE" value="dday-4" />
+    <MESSAGE value="dday-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="dday-3" />
   </component>
 </project>
