@@ -3,33 +3,34 @@ import heapq
 
 
 def solution(N, M, orders):
-    graph, rev_graph = {}, {}
-    for f, s in orders:
-        graph[s] = f
-        if s < f:
-            rev_graph.setdefault(f, []).append(s)
+    count = [0] * (N + 1)
+    graph = [[] for _ in range(N + 1)]
+    for a, b in orders:
+        graph[a].append(b)
+        count[b] += 1
+
+    heap = []
+    # find simply solvable
+    for i in range(1, N+1):
+        if count[i] == 0:
+            heap.append(i)
+    heapq.heapify(heap)
 
     answer = []
-    picked = [False] * (N + 1)
-    heap = [(i, i) for i in range(1, N+1)]
     while heap:
-        o, n = heapq.heappop(heap)
-        if n in graph and not picked[graph[n]]:
-            pass
-        else:
-            if n in rev_graph:
-                
-            answer.append(n)
-            picked[n] = True
-
-    return answer
-
+        x = heapq.heappop(heap)
+        answer.append(x)
+        for y in graph[x]:
+            count[y] -= 1
+            if count[y] == 0:
+                heapq.heappush(heap, y)
+    return ' '.join(map(str, answer))
 
 
 N, M = map(int, stdin.readline().strip().split(' '))
 orders = [list(map(int, stdin.readline().strip().split(' '))) for _ in range(M)]
 
-print(' '.join(map(str, solution(N, M, orders))))
+print(solution(N, M, orders))
 
 """
 5 2
