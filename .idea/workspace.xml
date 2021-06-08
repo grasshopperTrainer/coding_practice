@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4779bfb-d93c-4919-9e24-08852ecfec63" name="Default Changelist" comment="daily study monday">
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/16235 나무 재테크.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/16236 아기 상어.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/17144 미세먼지 안녕!.py" afterDir="false" />
+    <list default="true" id="d4779bfb-d93c-4919-9e24-08852ecfec63" name="Default Changelist" comment="naver interview prep d-4">
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/14442 벽 부수고 이동하기 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/accepted/1948 임계경로.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="f1756692-fd19-49fc-a2ed-49dc5a851d0b" name="44" comment="">
@@ -111,7 +110,7 @@
       <recent name="C:\Users\dingo\OneDrive\prgrm_dev\coding_practice\baekjoon\accepted\그래프, DP" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.17144 미세먼지 안녕!">
+  <component name="RunManager" selected="Python.1948 임계경로">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -123,7 +122,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="16235 나무 재테크" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="14442 벽 부수고 이동하기 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/16235 나무 재테크.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/14442 벽 부수고 이동하기 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scratch_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1948 임계경로" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,11 +193,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/accepted" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/accepted/1948 임계경로.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,7 +206,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scratch_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="scratch_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,7 +218,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1948 임계경로" />
+        <item itemvalue="Python.scratch_5" />
+        <item itemvalue="Python.14442 벽 부수고 이동하기 2" />
         <item itemvalue="Python.17144 미세먼지 안녕!" />
         <item itemvalue="Python.16236 아기 상어" />
-        <item itemvalue="Python.16235 나무 재테크" />
-        <item itemvalue="Python.scratch_10" />
-        <item itemvalue="Python.scratch_9" />
       </list>
     </recent_temporary>
   </component>
@@ -476,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621831819073</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="naver interview prep d-4">
+      <created>1623041744529</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1623041744529</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -495,7 +501,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="study study study study study" />
     <MESSAGE value="study study study study study study" />
     <MESSAGE value="study study study study study study study" />
     <MESSAGE value="study study study study study study study study" />
@@ -520,6 +525,7 @@
     <MESSAGE value="daily study thursday" />
     <MESSAGE value="daily study tuesday" />
     <MESSAGE value="daily study monday" />
-    <option name="LAST_COMMIT_MESSAGE" value="daily study monday" />
+    <MESSAGE value="naver interview prep d-4" />
+    <option name="LAST_COMMIT_MESSAGE" value="naver interview prep d-4" />
   </component>
 </project>
